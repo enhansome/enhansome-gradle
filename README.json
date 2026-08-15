@@ -53,7 +53,7 @@
             "last_commit": "2026-08-12T19:18:30Z",
             "owner": "diffplug",
             "repo": "spotless",
-            "stars": 5610
+            "stars": 5609
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T09:23:20Z",
+            "last_commit": "2026-08-14T10:53:49Z",
             "owner": "tbroyer",
             "repo": "gradle-errorprone-plugin",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -278,7 +278,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T20:06:49Z",
+            "last_commit": "2026-08-14T14:10:51Z",
             "owner": "wondrify",
             "repo": "asset-pipeline",
             "stars": 198
@@ -1484,7 +1484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:30:35.827Z",
+    "last_updated": "2026-08-15T09:46:57.474Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
     "enhanced_repository": "enhansome/enhansome-gradle",
