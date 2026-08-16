@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T19:18:30Z",
+            "last_commit": "2026-08-15T23:31:03Z",
             "owner": "diffplug",
             "repo": "spotless",
-            "stars": 5609
+            "stars": 5611
           }
         },
         {
@@ -1190,7 +1190,7 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-08-09T01:01:48Z",
+            "last_commit": "2026-08-16T00:13:27Z",
             "owner": "int128",
             "repo": "gradle-ssh-plugin",
             "stars": 325
@@ -1484,7 +1484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:46:57.474Z",
+    "last_updated": "2026-08-16T09:48:56.666Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
     "enhanced_repository": "enhansome/enhansome-gradle",
