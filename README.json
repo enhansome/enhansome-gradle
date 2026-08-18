@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T05:30:43Z",
+            "last_commit": "2026-08-18T06:36:28Z",
             "owner": "diffplug",
             "repo": "spotless",
-            "stars": 5614
+            "stars": 5616
           }
         },
         {
@@ -488,7 +488,7 @@
                 "last_commit": "2025-11-26T23:36:05Z",
                 "owner": "KeepSafe",
                 "repo": "dexcount-gradle-plugin",
-                "stars": 3072
+                "stars": 3071
               }
             },
             {
@@ -939,7 +939,7 @@
             "last_commit": "2026-08-10T22:01:13Z",
             "owner": "ben-manes",
             "repo": "gradle-versions-plugin",
-            "stars": 4078
+            "stars": 4079
           }
         },
         {
@@ -1362,7 +1362,7 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-08-10T09:21:13Z",
+            "last_commit": "2026-08-18T06:58:08Z",
             "owner": "palantir",
             "repo": "gradle-docker",
             "stars": 755
@@ -1484,7 +1484,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:03:32.061Z",
+    "last_updated": "2026-08-18T09:55:48.355Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
     "enhanced_repository": "enhansome/enhansome-gradle",
