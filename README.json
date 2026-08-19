@@ -1,1420 +1,1515 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": "Notice: in the following descriptions, \"Official plugin\" means that it's provided as a builtin plugin by Gradle.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-retrolambda",
+              "description": "Get Java lambda support in Java 6, 7 and Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11888356,
+                "language": "Java",
+                "last_commit": "2023-07-24T15:03:12Z",
+                "owner": "evant",
+                "repo": "gradle-retrolambda",
+                "stars": 5253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clojurephant",
+              "description": "Clojure/ClojureScript support for Gradle",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 99865757,
+                "language": "Java",
+                "last_commit": "2025-11-06T23:10:06Z",
+                "owner": "clojurephant",
+                "repo": "clojurephant",
+                "stars": 196
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "spotless",
+              "description": "Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34685800,
+                "language": "Java",
+                "last_commit": "2026-08-18T06:36:28Z",
+                "owner": "diffplug",
+                "repo": "spotless",
+                "stars": 5616
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-errorprone-plugin",
+              "description": "Use the error-prone compiler for Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125682893,
+                "language": "Java",
+                "last_commit": "2026-08-14T10:53:49Z",
+                "owner": "tbroyer",
+                "repo": "gradle-errorprone-plugin",
+                "stars": 402
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coveralls-gradle-plugin",
+              "description": "Send coverage data to coveralls.io.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13065984,
+                "language": "Groovy",
+                "last_commit": "2025-08-19T05:38:03Z",
+                "owner": "kt3k",
+                "repo": "coveralls-gradle-plugin",
+                "stars": 253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-cobertura-plugin",
+              "description": "Use cobertura.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5086807,
+                "language": "Groovy",
+                "last_commit": "2022-05-21T10:45:27Z",
+                "owner": "stevesaliman",
+                "repo": "gradle-cobertura-plugin",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-scoverage",
+              "description": "Enable the use of Scoverage in a Gradle Scala project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17742317,
+                "language": "Java",
+                "last_commit": "2026-07-19T19:33:48Z",
+                "owner": "scoverage",
+                "repo": "gradle-scoverage",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-modernizer-plugin",
+              "description": "Detect uses of legacy Java APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 75946305,
+                "language": "Java",
+                "last_commit": "2020-06-09T13:30:23Z",
+                "owner": "simonharrer",
+                "repo": "gradle-modernizer-plugin",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-spelling-plugin",
+              "description": "Inspect spelling using custom blacklist.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46274001,
+                "language": "Groovy",
+                "last_commit": "2016-03-14T15:28:25Z",
+                "owner": "ksoichiro",
+                "repo": "gradle-spelling-plugin",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code quality"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "querydsl-plugin",
+              "description": "Generate Querydsl classes.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 26922237,
+                "language": "Groovy",
+                "last_commit": "2021-04-28T08:52:50Z",
+                "owner": "ewerk",
+                "repo": "gradle-plugins",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-protobuf-plugin",
+              "description": "Compile Google Protocol Buffers files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7471823,
+                "language": "Groovy",
+                "last_commit": "2014-05-11T18:46:11Z",
+                "owner": "tcawley",
+                "repo": "gradle-protobuf-plugin",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-apt-plugin",
+              "description": "Make it easier/safer to use Java annotation processors.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35005881,
+                "language": "Groovy",
+                "last_commit": "2020-01-27T08:40:27Z",
+                "owner": "tbroyer",
+                "repo": "gradle-apt-plugin",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vertx-gradle-plugin",
+              "description": "Unofficial plugin for starting Vert.x projects.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 8387864,
+                "language": "Groovy",
+                "last_commit": "2014-09-26T14:20:12Z",
+                "owner": "darylteo",
+                "repo": "vertx-gradle-plugin",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java application development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-node-plugin",
+              "description": "Run NodeJS scripts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14653800,
+                "language": "Groovy",
+                "last_commit": "2021-03-25T18:02:23Z",
+                "owner": "srs",
+                "repo": "gradle-node-plugin",
+                "stars": 865
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gretty",
+              "description": "Run web apps on jetty and tomcat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10674688,
+                "language": "Groovy",
+                "last_commit": "2023-12-28T03:56:50Z",
+                "owner": "akhikhl",
+                "repo": "gretty",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-tomcat-plugin",
+              "description": "Support deployment of your web application to an embedded Tomcat web container.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1124391,
+                "language": "Groovy",
+                "last_commit": "2023-10-12T23:21:35Z",
+                "owner": "bmuschko",
+                "repo": "gradle-tomcat-plugin",
+                "stars": 526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-js-plugin",
+              "description": "Manage JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2515985,
+                "language": "JavaScript",
+                "last_commit": "2022-07-16T18:32:40Z",
+                "owner": "eriwen",
+                "repo": "gradle-js-plugin",
+                "stars": 380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asset-pipeline",
+              "description": "Manage and process static assets in JVM applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23878744,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T15:37:21Z",
+                "owner": "wondrify",
+                "repo": "asset-pipeline",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-grunt-plugin",
+              "description": "Run Grunt tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10161709,
+                "language": null,
+                "last_commit": "2016-12-02T20:42:40Z",
+                "owner": "srs",
+                "repo": "gradle-grunt-plugin",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-gulp-plugin",
+              "description": "Run Gulp tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24325415,
+                "language": null,
+                "last_commit": "2016-12-02T20:47:56Z",
+                "owner": "srs",
+                "repo": "gradle-gulp-plugin",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-compass",
+              "description": "Compile and watche SASS files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9957962,
+                "language": "Groovy",
+                "last_commit": "2020-01-10T02:05:19Z",
+                "owner": "robfletcher",
+                "repo": "gradle-compass",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-jrebel-plugin",
+              "description": "Generate rebel.xml configuration file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2947423,
+                "language": "Java",
+                "last_commit": "2025-09-05T11:52:42Z",
+                "owner": "zeroturnaround",
+                "repo": "gradle-jrebel-plugin",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rest-gradle-plugin",
+              "description": "Perform REST requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8405970,
+                "language": "Groovy",
+                "last_commit": "2016-10-26T11:10:37Z",
+                "owner": "noamt",
+                "repo": "rest-gradle-plugin",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apina",
+              "description": "Creates client-side TypeScript from server-side APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36000351,
+                "language": "Kotlin",
+                "last_commit": "2026-06-16T07:40:11Z",
+                "owner": "EvidentSolutions",
+                "repo": "apina",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bower-installer-plugin",
+              "description": "Manage client-side dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39601628,
+                "language": "Groovy",
+                "last_commit": "2016-12-06T17:15:43Z",
+                "owner": "craigburke",
+                "repo": "bower-installer-gradle",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-web-resource-plugin",
+              "description": "Use CoffeeScript, LESS and Bower libraries without Node.js/npm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38532159,
+                "language": "Groovy",
+                "last_commit": "2018-06-27T10:39:52Z",
+                "owner": "ksoichiro",
+                "repo": "gradle-web-resource-plugin",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-jslint-plugin",
+              "description": "Run JSLint static analysis against JavaScipt code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209387,
+                "language": "Groovy",
+                "last_commit": "2012-09-27T03:28:21Z",
+                "owner": "kellyrob99",
+                "repo": "gradle-jslint-plugin",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web application development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Dependency management",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "sdk-manager-plugin",
+                  "description": "Download and manage Android SDK.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 18238514,
+                    "language": "Groovy",
+                    "last_commit": "2016-10-07T23:07:08Z",
+                    "owner": "JakeWharton",
+                    "repo": "sdk-manager-plugin",
+                    "stars": 1404
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "android-native-dependencies",
+                  "description": "Gradle plugin for resolving and downloading Android native dependencies (.so)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20143411,
+                    "language": "Groovy",
+                    "last_commit": "2017-08-14T08:04:49Z",
+                    "owner": "AghilasMessara",
+                    "repo": "android-native-dependencies",
+                    "stars": 200
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Alternative language",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "groovy-android-gradle-plugin",
+                  "description": "Support the Groovy language for building Android apps.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 20559390,
+                    "language": "Groovy",
+                    "last_commit": "2020-03-23T17:05:12Z",
+                    "owner": "groovy",
+                    "repo": "groovy-android-gradle-plugin",
+                    "stars": 847
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "APK handling",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dexcount-gradle-plugin",
+                  "description": "Report the number of method references in APK.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36845923,
+                    "language": "Java",
+                    "last_commit": "2025-11-26T23:36:05Z",
+                    "owner": "KeepSafe",
+                    "repo": "dexcount-gradle-plugin",
+                    "stars": 3072
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gradle-android-apk-size-plugin",
+                  "description": "Gradle plugin that generates CSV files with apk size per output and variant of an apk.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 46174773,
+                    "language": "Groovy",
+                    "last_commit": "2018-11-25T08:43:54Z",
+                    "owner": "vanniktech",
+                    "repo": "gradle-android-apk-size-plugin",
+                    "stars": 83
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "android-gradle-mulchannel-plugin",
+                  "description": "Generate multiple apks from different channel.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30177077,
+                    "language": "Groovy",
+                    "last_commit": "2016-01-25T09:36:54Z",
+                    "owner": "ihrthk",
+                    "repo": "android-gradle-mulchannel-plugin",
+                    "stars": 43
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Build variant handling",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gradle-advanced-build-version",
+                  "description": "Generate the Android version code and version name automatically.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28918479,
+                    "language": "Kotlin",
+                    "last_commit": "2026-02-21T04:43:41Z",
+                    "owner": "moallemi",
+                    "repo": "gradle-advanced-build-version",
+                    "stars": 608
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gradle-config",
+                  "description": "Handle variant specific settings with yaml format.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 46735468,
+                    "language": "Groovy",
+                    "last_commit": "2017-12-20T09:05:47Z",
+                    "owner": "tmiyamon",
+                    "repo": "gradle-config",
+                    "stars": 100
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Icons",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gradle-android-ribbonizer-plugin",
+                  "description": "Add a ribbon to launcher icons of Android apps.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20545293,
+                    "language": "Java",
+                    "last_commit": "2023-10-10T00:43:09Z",
+                    "owner": "maskarade",
+                    "repo": "gradle-android-ribbonizer-plugin",
+                    "stars": 352
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gradle-mdicons",
+                  "description": "Manage material design icons.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 28503355,
+                    "language": "Groovy",
+                    "last_commit": "2016-04-26T10:04:37Z",
+                    "owner": "tmiyamon",
+                    "repo": "gradle-mdicons",
+                    "stars": 72
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gradle-android-appiconoverlay",
+                  "description": "Automatically overlay the app icon with the current git commit SHA1.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16869398,
+                    "language": "Groovy",
+                    "last_commit": "2017-11-25T04:11:15Z",
+                    "owner": "splatte",
+                    "repo": "gradle-android-appiconoverlay",
+                    "stars": 66
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Releasing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gradle-play-publisher",
+                  "description": "Manage your complete Play Store presence in your repository: Listing, Release Notes, APKs and App Bundles.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22718907,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-16T19:40:27Z",
+                    "owner": "Triple-T",
+                    "repo": "gradle-play-publisher",
+                    "stars": 4312
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "testfairy-gradle-plugin",
+                  "description": "Official plugin to upload signed builds to TestFairy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15734823,
+                    "language": "Groovy",
+                    "last_commit": "2021-12-20T11:43:21Z",
+                    "owner": "testfairy",
+                    "repo": "testfairy-gradle-plugin",
+                    "stars": 92
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gradle-deploygate-plugin",
+                  "description": "Build and deploy apps to DeployGate.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10899621,
+                    "language": "Groovy",
+                    "last_commit": "2026-08-05T11:52:51Z",
+                    "owner": "DeployGate",
+                    "repo": "gradle-deploygate-plugin",
+                    "stars": 90
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Testing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "unmock-plugin",
+                  "description": "Allow you to use selected classes from a real Android-Jarfile for Android unit testing.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30837165,
+                    "language": "Java",
+                    "last_commit": "2026-06-20T08:43:02Z",
+                    "owner": "bjoernQ",
+                    "repo": "unmock-plugin",
+                    "stars": 327
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gradle-plugin-robospock",
+                  "description": "Configure robospock (gradle + spock + roboelectric) easily.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24633682,
+                    "language": "Groovy",
+                    "last_commit": "2014-12-31T17:23:06Z",
+                    "owner": "Centril",
+                    "repo": "gradle-plugin-robospock",
+                    "stars": 20
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Miscellaneous",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Shot",
+                  "description": "Shot is a Gradle plugin that simplifies the execution of screenshot tests using Screenshot Tests For Android by Facebook.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91067584,
+                    "language": "Kotlin",
+                    "last_commit": "2026-01-16T10:46:26Z",
+                    "owner": "pedrovgs",
+                    "repo": "Shot",
+                    "stars": 1206
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gradle-eclipse-aar-plugin",
+                  "description": "Use Android AAR libraries on Eclipse.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30493915,
+                    "language": "Groovy",
+                    "last_commit": "2017-07-09T06:11:13Z",
+                    "owner": "ksoichiro",
+                    "repo": "gradle-eclipse-aar-plugin",
+                    "stars": 125
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ormlite-android-gradle-plugin",
+                  "description": "Generate an ORMLite configuration file and boost DAOs creations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33259709,
+                    "language": "Java",
+                    "last_commit": "2019-02-02T18:56:05Z",
+                    "owner": "stephanenicolas",
+                    "repo": "ormlite-android-gradle-plugin",
+                    "stars": 101
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gradle-android-git",
+                  "description": "Manage Git dependency for Android apps.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23189143,
+                    "language": "Groovy",
+                    "last_commit": "2014-10-26T01:37:05Z",
+                    "owner": "ksoichiro",
+                    "repo": "gradle-android-git",
+                    "stars": 22
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android application development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-xcodePlugin",
+              "description": "Build iOS and Mac projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5527797,
+                "language": "Groovy",
+                "last_commit": "2025-07-03T06:57:41Z",
+                "owner": "openbakery",
+                "repo": "gradle-xcodePlugin",
+                "stars": 464
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "j2objc-gradle",
+              "description": "Enable Java source to be part of an iOS application's build.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30206593,
+                "language": "Groovy",
+                "last_commit": "2018-06-18T20:10:35Z",
+                "owner": "j2objc-contrib",
+                "repo": "j2objc-gradle",
+                "stars": 139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS and Mac application development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "goomph",
+              "description": "Downloads an Eclipse IDE with all required plugins and creates a workspace with specified settings and projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43491998,
+                "language": "Java",
+                "last_commit": "2026-03-12T15:36:24Z",
+                "owner": "diffplug",
+                "repo": "goomph",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-syntastic-plugin",
+              "description": "Integrate Java project with Vim and Syntastic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37824928,
+                "language": "Groovy",
+                "last_commit": "2023-08-22T11:47:24Z",
+                "owner": "Scuilion",
+                "repo": "gradle-syntastic-plugin",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-sublimetext-plugin",
+              "description": "Generate Sublime Text 2 project file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4436151,
+                "language": "Groovy",
+                "last_commit": "2013-05-16T15:17:52Z",
+                "owner": "delfoxie",
+                "repo": "gradle-sublimetext-plugin",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editor and IDE integration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "markdown-gradle-plugin",
+              "description": "Convert Markdown to HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8589519,
+                "language": "Groovy",
+                "last_commit": "2022-01-01T10:56:44Z",
+                "owner": "kordamp",
+                "repo": "markdown-gradle-plugin",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-twirl",
+              "description": "Provide Twirl template compilation and integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23313693,
+                "language": "Groovy",
+                "last_commit": "2015-11-04T23:41:36Z",
+                "owner": "67726e",
+                "repo": "gradle-twirl",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templating"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "liquibase-gradle-plugin",
+              "description": "Use Liquibase to manage your database upgrades.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33997332,
+                "language": "Groovy",
+                "last_commit": "2026-04-25T14:40:47Z",
+                "owner": "liquibase",
+                "repo": "liquibase-gradle-plugin",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ml-gradle",
+              "description": "Automate everything involving MarkLogic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30840274,
+                "language": "Java",
+                "last_commit": "2026-08-11T17:11:42Z",
+                "owner": "marklogic",
+                "repo": "ml-gradle",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-migrations-plugin",
+              "description": "Provide gradle build integration with mybatis migrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3037517,
+                "language": "Shell",
+                "last_commit": "2019-08-04T02:38:42Z",
+                "owner": "marceloemanoel",
+                "repo": "gradle-migrations-plugin",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-versions-plugin",
+              "description": "Provide a task to determine which dependencies have updates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6973491,
+                "language": "Groovy",
+                "last_commit": "2026-08-10T22:01:13Z",
+                "owner": "ben-manes",
+                "repo": "gradle-versions-plugin",
+                "stars": 4079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "buildSrcVersions",
+              "description": "Painless dependencies management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150827271,
+                "language": "Kotlin",
+                "last_commit": "2025-08-16T13:51:35Z",
+                "owner": "Splitties",
+                "repo": "refreshVersions",
+                "stars": 1709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-dependency-lock-plugin",
+              "description": "Allow people using dynamic dependency versions to lock them to specific versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16361009,
+                "language": "Groovy",
+                "last_commit": "2026-08-10T00:13:19Z",
+                "owner": "nebula-plugins",
+                "repo": "gradle-dependency-lock-plugin",
+                "stars": 303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-nuget-plugin",
+              "description": "Execute NuGet.exe from Gradle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6956593,
+                "language": "Groovy",
+                "last_commit": "2026-03-27T06:49:00Z",
+                "owner": "Itiviti",
+                "repo": "gradle-nuget-plugin",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-dependency-analyze",
+              "description": "Dependency analysis plugin for gradle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335373416,
+                "language": "Groovy",
+                "last_commit": "2021-02-02T17:45:00Z",
+                "owner": "wfhartford",
+                "repo": "gradle-dependency-analyze",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dependency management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-test-logger-plugin",
+              "description": "A Gradle plugin for printing beautiful logs on the console while running tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98467531,
+                "language": "Groovy",
+                "last_commit": "2026-03-15T23:57:23Z",
+                "owner": "radarsh",
+                "repo": "gradle-test-logger-plugin",
+                "stars": 887
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-console-reporter",
+              "description": "Report test result to console.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48633402,
+                "language": "Groovy",
+                "last_commit": "2021-08-12T17:07:31Z",
+                "owner": "ksoichiro",
+                "repo": "gradle-console-reporter",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-itest-plugin",
+              "description": "This plugin adds integration testing support to the project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217500469,
+                "language": "Groovy",
+                "last_commit": "2021-08-31T16:23:10Z",
+                "owner": "Softeq",
+                "repo": "itest-gradle-plugin",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-gatling-plugin",
+              "description": "Run Gatling scenarios.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22502397,
+                "language": "Groovy",
+                "last_commit": "2023-12-04T14:37:10Z",
+                "owner": "alphagov",
+                "repo": "gradle-gatling-plugin",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "build-time-tracker-plugin",
+              "description": "Continuously track and report your build times.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22375669,
+                "language": "Groovy",
+                "last_commit": "2019-05-28T13:34:49Z",
+                "owner": "passy",
+                "repo": "build-time-tracker-plugin",
+                "stars": 1207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-metrics-plugin",
+              "description": "Collect Gradle build metrics and persist them to an external datastore.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 33507693,
+                "language": "Java",
+                "last_commit": "2021-01-14T23:49:37Z",
+                "owner": "nebula-plugins",
+                "repo": "gradle-metrics-plugin",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Building"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-one-jar",
+              "description": "Build self-contained executable jars that include all dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4342744,
+                "language": "Groovy",
+                "last_commit": "2024-05-10T03:43:18Z",
+                "owner": "rholder",
+                "repo": "gradle-one-jar",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-build-info-plugin",
+              "description": "Include build information such as Git commit ID to your JAR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47978845,
+                "language": "Groovy",
+                "last_commit": "2017-01-02T08:07:48Z",
+                "owner": "ksoichiro",
+                "repo": "gradle-build-info-plugin",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-replacer",
+              "description": "Provide a minimalistic template engine feature.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29307131,
+                "language": "Groovy",
+                "last_commit": "2015-02-05T16:50:38Z",
+                "owner": "ksoichiro",
+                "repo": "gradle-replacer",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Packaging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-bintray-plugin",
+              "description": "Publish artifacts to Bintray.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10321999,
+                "language": "Groovy",
+                "last_commit": "2021-01-15T07:39:45Z",
+                "owner": "bintray",
+                "repo": "gradle-bintray-plugin",
+                "stars": 1272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-release",
+              "description": "Automate releasing process. Similar to the Maven release plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7173018,
+                "language": "Groovy",
+                "last_commit": "2026-06-18T11:15:14Z",
+                "owner": "researchgate",
+                "repo": "gradle-release",
+                "stars": 887
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-ssh-plugin",
+              "description": "Provide SSH facilities for continuous delivery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6459731,
+                "language": "Groovy",
+                "last_commit": "2026-08-16T00:13:27Z",
+                "owner": "int128",
+                "repo": "gradle-ssh-plugin",
+                "stars": 325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-nexus-plugin",
+              "description": "Configure and upload artifacts to Sonatype Nexus.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4618330,
+                "language": "Groovy",
+                "last_commit": "2021-03-21T23:42:26Z",
+                "owner": "bmuschko",
+                "repo": "gradle-nexus-plugin",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spotless-changelog",
+              "description": "Parses changelog to calculate next version, then updates changelog on publish.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225545609,
+                "language": "Java",
+                "last_commit": "2024-07-06T20:54:40Z",
+                "owner": "diffplug",
+                "repo": "spotless-changelog",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Releasing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-aws-plugin",
+              "description": "Manage AWS resouces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16303962,
+                "language": "Java",
+                "last_commit": "2023-03-30T04:40:13Z",
+                "owner": "classmethod",
+                "repo": "gradle-aws-plugin",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-s3-plugin",
+              "description": "Upload files to / download files from S3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21168921,
+                "language": "Groovy",
+                "last_commit": "2021-09-24T13:41:08Z",
+                "owner": "skhatri",
+                "repo": "gradle-s3-plugin",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-stash-plugin",
+              "description": "Interact with the Stash SCM.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 17734596,
+                "language": "Groovy",
+                "last_commit": "2023-09-26T17:38:50Z",
+                "owner": "nebula-plugins",
+                "repo": "gradle-stash-plugin",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-cf-plugin",
+              "description": "Interact with CloudFoundry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3661257,
+                "language": "Groovy",
+                "last_commit": "2014-01-13T11:21:40Z",
+                "owner": "melix",
+                "repo": "gradle-cf-plugin",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloud services"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gradle-git",
+              "description": "Set of plugin to interact with Git repositories, publish files to gh-page, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3261576,
+                "language": "Groovy",
+                "last_commit": "2018-10-05T00:29:26Z",
+                "owner": "ajoberstar",
+                "repo": "gradle-git",
+                "stars": 561
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-svntools-plugin",
+              "description": "Provide various SVN-related tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28569115,
+                "language": "Groovy",
+                "last_commit": "2020-08-22T13:47:20Z",
+                "owner": "martoe",
+                "repo": "gradle-svntools-plugin",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-snapshot-plugin",
+              "description": "Generate build metadata from SCM tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3664205,
+                "language": "Java",
+                "last_commit": "2015-02-23T17:42:10Z",
+                "owner": "novabyte",
+                "repo": "gradle-snapshot-plugin",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SCM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bmuschko/gradle-docker-plugin",
+              "description": "Gradle plugin for managing Docker images and containers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19589726,
+                "language": "Java",
+                "last_commit": "2025-10-30T19:38:19Z",
+                "owner": "bmuschko",
+                "repo": "gradle-docker-plugin",
+                "stars": 1239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "palantir/gradle-docker",
+              "description": "Build and push Docker images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42682769,
+                "language": "Groovy",
+                "last_commit": "2026-08-18T12:09:10Z",
+                "owner": "palantir",
+                "repo": "gradle-docker",
+                "stars": 755
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transmode/gradle-docker",
+              "description": "Build Docker images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13545130,
+                "language": "Groovy",
+                "last_commit": "2020-08-20T11:48:11Z",
+                "owner": "Transmode",
+                "repo": "gradle-docker",
+                "stars": 650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-vagrant-plugin",
+              "description": "Manage Vagrant boxes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12848017,
+                "language": "Groovy",
+                "last_commit": "2021-03-21T23:47:27Z",
+                "owner": "bmuschko",
+                "repo": "gradle-vagrant-plugin",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nebula-docker-plugin",
+              "description": "Nebula gradle plugin for reducing boilerplate in creating docker images.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 71936968,
+                "language": "Groovy",
+                "last_commit": "2020-10-30T01:05:35Z",
+                "owner": "nebula-plugins",
+                "repo": "nebula-docker-plugin",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VM and container"
+        }
+      ],
       "title": "Plugins"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-retrolambda",
-          "description": "Get Java lambda support in Java 6, 7 and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-07-24T15:03:12Z",
-            "owner": "evant",
-            "repo": "gradle-retrolambda",
-            "stars": 5254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clojurephant",
-          "description": "Clojure/ClojureScript support for Gradle",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2025-11-06T23:10:06Z",
-            "owner": "clojurephant",
-            "repo": "clojurephant",
-            "stars": 196
-          }
-        }
-      ],
-      "title": "Language"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "spotless",
-          "description": "Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T06:36:28Z",
-            "owner": "diffplug",
-            "repo": "spotless",
-            "stars": 5616
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-errorprone-plugin",
-          "description": "Use the error-prone compiler for Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-14T10:53:49Z",
-            "owner": "tbroyer",
-            "repo": "gradle-errorprone-plugin",
-            "stars": 402
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coveralls-gradle-plugin",
-          "description": "Send coverage data to coveralls.io.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2025-08-19T05:38:03Z",
-            "owner": "kt3k",
-            "repo": "coveralls-gradle-plugin",
-            "stars": 253
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-cobertura-plugin",
-          "description": "Use cobertura.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2022-05-21T10:45:27Z",
-            "owner": "stevesaliman",
-            "repo": "gradle-cobertura-plugin",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-scoverage",
-          "description": "Enable the use of Scoverage in a Gradle Scala project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-19T19:33:48Z",
-            "owner": "scoverage",
-            "repo": "gradle-scoverage",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-modernizer-plugin",
-          "description": "Detect uses of legacy Java APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2020-06-09T13:30:23Z",
-            "owner": "simonharrer",
-            "repo": "gradle-modernizer-plugin",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-spelling-plugin",
-          "description": "Inspect spelling using custom blacklist.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2016-03-14T15:28:25Z",
-            "owner": "ksoichiro",
-            "repo": "gradle-spelling-plugin",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Code quality"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "querydsl-plugin",
-          "description": "Generate Querydsl classes.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2021-04-28T08:52:50Z",
-            "owner": "ewerk",
-            "repo": "gradle-plugins",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-protobuf-plugin",
-          "description": "Compile Google Protocol Buffers files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2014-05-11T18:46:11Z",
-            "owner": "tcawley",
-            "repo": "gradle-protobuf-plugin",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Code generation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-apt-plugin",
-          "description": "Make it easier/safer to use Java annotation processors.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2020-01-27T08:40:27Z",
-            "owner": "tbroyer",
-            "repo": "gradle-apt-plugin",
-            "stars": 292
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vertx-gradle-plugin",
-          "description": "Unofficial plugin for starting Vert.x projects.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2014-09-26T14:20:12Z",
-            "owner": "darylteo",
-            "repo": "vertx-gradle-plugin",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Java application development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-node-plugin",
-          "description": "Run NodeJS scripts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2021-03-25T18:02:23Z",
-            "owner": "srs",
-            "repo": "gradle-node-plugin",
-            "stars": 865
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gretty",
-          "description": "Run web apps on jetty and tomcat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2023-12-28T03:56:50Z",
-            "owner": "akhikhl",
-            "repo": "gretty",
-            "stars": 649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-tomcat-plugin",
-          "description": "Support deployment of your web application to an embedded Tomcat web container.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2023-10-12T23:21:35Z",
-            "owner": "bmuschko",
-            "repo": "gradle-tomcat-plugin",
-            "stars": 526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-js-plugin",
-          "description": "Manage JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-07-16T18:32:40Z",
-            "owner": "eriwen",
-            "repo": "gradle-js-plugin",
-            "stars": 380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "asset-pipeline",
-          "description": "Manage and process static assets in JVM applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T15:37:21Z",
-            "owner": "wondrify",
-            "repo": "asset-pipeline",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-grunt-plugin",
-          "description": "Run Grunt tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-12-02T20:42:40Z",
-            "owner": "srs",
-            "repo": "gradle-grunt-plugin",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-gulp-plugin",
-          "description": "Run Gulp tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-12-02T20:47:56Z",
-            "owner": "srs",
-            "repo": "gradle-gulp-plugin",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-compass",
-          "description": "Compile and watche SASS files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2020-01-10T02:05:19Z",
-            "owner": "robfletcher",
-            "repo": "gradle-compass",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-jrebel-plugin",
-          "description": "Generate rebel.xml configuration file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-09-05T11:52:42Z",
-            "owner": "zeroturnaround",
-            "repo": "gradle-jrebel-plugin",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rest-gradle-plugin",
-          "description": "Perform REST requests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2016-10-26T11:10:37Z",
-            "owner": "noamt",
-            "repo": "rest-gradle-plugin",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apina",
-          "description": "Creates client-side TypeScript from server-side APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-16T07:40:11Z",
-            "owner": "EvidentSolutions",
-            "repo": "apina",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bower-installer-plugin",
-          "description": "Manage client-side dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2016-12-06T17:15:43Z",
-            "owner": "craigburke",
-            "repo": "bower-installer-gradle",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-web-resource-plugin",
-          "description": "Use CoffeeScript, LESS and Bower libraries without Node.js/npm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2018-06-27T10:39:52Z",
-            "owner": "ksoichiro",
-            "repo": "gradle-web-resource-plugin",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-jslint-plugin",
-          "description": "Run JSLint static analysis against JavaScipt code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2012-09-27T03:28:21Z",
-            "owner": "kellyrob99",
-            "repo": "gradle-jslint-plugin",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Web application development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Dependency management",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "sdk-manager-plugin",
-              "description": "Download and manage Android SDK.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Groovy",
-                "last_commit": "2016-10-07T23:07:08Z",
-                "owner": "JakeWharton",
-                "repo": "sdk-manager-plugin",
-                "stars": 1404
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "android-native-dependencies",
-              "description": "Gradle plugin for resolving and downloading Android native dependencies (.so)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2017-08-14T08:04:49Z",
-                "owner": "AghilasMessara",
-                "repo": "android-native-dependencies",
-                "stars": 200
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Alternative language",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "groovy-android-gradle-plugin",
-              "description": "Support the Groovy language for building Android apps.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Groovy",
-                "last_commit": "2020-03-23T17:05:12Z",
-                "owner": "groovy",
-                "repo": "groovy-android-gradle-plugin",
-                "stars": 847
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "APK handling",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "dexcount-gradle-plugin",
-              "description": "Report the number of method references in APK.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2025-11-26T23:36:05Z",
-                "owner": "KeepSafe",
-                "repo": "dexcount-gradle-plugin",
-                "stars": 3071
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-android-apk-size-plugin",
-              "description": "Gradle plugin that generates CSV files with apk size per output and variant of an apk.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Groovy",
-                "last_commit": "2018-11-25T08:43:54Z",
-                "owner": "vanniktech",
-                "repo": "gradle-android-apk-size-plugin",
-                "stars": 83
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "android-gradle-mulchannel-plugin",
-              "description": "Generate multiple apks from different channel.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2016-01-25T09:36:54Z",
-                "owner": "ihrthk",
-                "repo": "android-gradle-mulchannel-plugin",
-                "stars": 43
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Build variant handling",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "gradle-advanced-build-version",
-              "description": "Generate the Android version code and version name automatically.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Kotlin",
-                "last_commit": "2026-02-21T04:43:41Z",
-                "owner": "moallemi",
-                "repo": "gradle-advanced-build-version",
-                "stars": 608
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-config",
-              "description": "Handle variant specific settings with yaml format.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Groovy",
-                "last_commit": "2017-12-20T09:05:47Z",
-                "owner": "tmiyamon",
-                "repo": "gradle-config",
-                "stars": 100
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Icons",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "gradle-android-ribbonizer-plugin",
-              "description": "Add a ribbon to launcher icons of Android apps.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2023-10-10T00:43:09Z",
-                "owner": "maskarade",
-                "repo": "gradle-android-ribbonizer-plugin",
-                "stars": 352
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-mdicons",
-              "description": "Manage material design icons.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Groovy",
-                "last_commit": "2016-04-26T10:04:37Z",
-                "owner": "tmiyamon",
-                "repo": "gradle-mdicons",
-                "stars": 72
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-android-appiconoverlay",
-              "description": "Automatically overlay the app icon with the current git commit SHA1.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2017-11-25T04:11:15Z",
-                "owner": "splatte",
-                "repo": "gradle-android-appiconoverlay",
-                "stars": 66
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Releasing",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "gradle-play-publisher",
-              "description": "Manage your complete Play Store presence in your repository: Listing, Release Notes, APKs and App Bundles.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Kotlin",
-                "last_commit": "2026-08-16T19:40:27Z",
-                "owner": "Triple-T",
-                "repo": "gradle-play-publisher",
-                "stars": 4311
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "testfairy-gradle-plugin",
-              "description": "Official plugin to upload signed builds to TestFairy.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2021-12-20T11:43:21Z",
-                "owner": "testfairy",
-                "repo": "testfairy-gradle-plugin",
-                "stars": 92
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-deploygate-plugin",
-              "description": "Build and deploy apps to DeployGate.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2026-08-05T11:52:51Z",
-                "owner": "DeployGate",
-                "repo": "gradle-deploygate-plugin",
-                "stars": 90
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Testing",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "unmock-plugin",
-              "description": "Allow you to use selected classes from a real Android-Jarfile for Android unit testing.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2026-06-20T08:43:02Z",
-                "owner": "bjoernQ",
-                "repo": "unmock-plugin",
-                "stars": 327
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-plugin-robospock",
-              "description": "Configure robospock (gradle + spock + roboelectric) easily.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2014-12-31T17:23:06Z",
-                "owner": "Centril",
-                "repo": "gradle-plugin-robospock",
-                "stars": 20
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-monkey-plugin",
-              "description": "Run Android monkey tests.",
-              "children": []
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Miscellaneous",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Shot",
-              "description": "Shot is a Gradle plugin that simplifies the execution of screenshot tests using Screenshot Tests For Android by Facebook.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Kotlin",
-                "last_commit": "2026-01-16T10:46:26Z",
-                "owner": "pedrovgs",
-                "repo": "Shot",
-                "stars": 1206
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-eclipse-aar-plugin",
-              "description": "Use Android AAR libraries on Eclipse.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2017-07-09T06:11:13Z",
-                "owner": "ksoichiro",
-                "repo": "gradle-eclipse-aar-plugin",
-                "stars": 125
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ormlite-android-gradle-plugin",
-              "description": "Generate an ORMLite configuration file and boost DAOs creations.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2019-02-02T18:56:05Z",
-                "owner": "stephanenicolas",
-                "repo": "ormlite-android-gradle-plugin",
-                "stars": 101
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gradle-android-git",
-              "description": "Manage Git dependency for Android apps.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2014-10-26T01:37:05Z",
-                "owner": "ksoichiro",
-                "repo": "gradle-android-git",
-                "stars": 22
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Android application development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-xcodePlugin",
-          "description": "Build iOS and Mac projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2025-07-03T06:57:41Z",
-            "owner": "openbakery",
-            "repo": "gradle-xcodePlugin",
-            "stars": 464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "j2objc-gradle",
-          "description": "Enable Java source to be part of an iOS application's build.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2018-06-18T20:10:35Z",
-            "owner": "j2objc-contrib",
-            "repo": "j2objc-gradle",
-            "stars": 139
-          }
-        }
-      ],
-      "title": "iOS and Mac application development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "goomph",
-          "description": "Downloads an Eclipse IDE with all required plugins and creates a workspace with specified settings and projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-12T15:36:24Z",
-            "owner": "diffplug",
-            "repo": "goomph",
-            "stars": 137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-syntastic-plugin",
-          "description": "Integrate Java project with Vim and Syntastic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2023-08-22T11:47:24Z",
-            "owner": "Scuilion",
-            "repo": "gradle-syntastic-plugin",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-sublimetext-plugin",
-          "description": "Generate Sublime Text 2 project file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2013-05-16T15:17:52Z",
-            "owner": "delfoxie",
-            "repo": "gradle-sublimetext-plugin",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Editor and IDE integration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "markdown-gradle-plugin",
-          "description": "Convert Markdown to HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2022-01-01T10:56:44Z",
-            "owner": "kordamp",
-            "repo": "markdown-gradle-plugin",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-twirl",
-          "description": "Provide Twirl template compilation and integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2015-11-04T23:41:36Z",
-            "owner": "67726e",
-            "repo": "gradle-twirl",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Templating"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "liquibase-gradle-plugin",
-          "description": "Use Liquibase to manage your database upgrades.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-04-25T14:40:47Z",
-            "owner": "liquibase",
-            "repo": "liquibase-gradle-plugin",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ml-gradle",
-          "description": "Automate everything involving MarkLogic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-11T17:11:42Z",
-            "owner": "marklogic",
-            "repo": "ml-gradle",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-migrations-plugin",
-          "description": "Provide gradle build integration with mybatis migrations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-08-04T02:38:42Z",
-            "owner": "marceloemanoel",
-            "repo": "gradle-migrations-plugin",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Database"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-versions-plugin",
-          "description": "Provide a task to determine which dependencies have updates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-08-10T22:01:13Z",
-            "owner": "ben-manes",
-            "repo": "gradle-versions-plugin",
-            "stars": 4079
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "buildSrcVersions",
-          "description": "Painless dependencies management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-08-16T13:51:35Z",
-            "owner": "Splitties",
-            "repo": "refreshVersions",
-            "stars": 1709
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-dependency-lock-plugin",
-          "description": "Allow people using dynamic dependency versions to lock them to specific versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-08-10T00:13:19Z",
-            "owner": "nebula-plugins",
-            "repo": "gradle-dependency-lock-plugin",
-            "stars": 303
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-nuget-plugin",
-          "description": "Execute NuGet.exe from Gradle.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-03-27T06:49:00Z",
-            "owner": "Itiviti",
-            "repo": "gradle-nuget-plugin",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-dependency-analyze",
-          "description": "Dependency analysis plugin for gradle.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2021-02-02T17:45:00Z",
-            "owner": "wfhartford",
-            "repo": "gradle-dependency-analyze",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-git-repo-plugin",
-          "description": "Use a private git repo as a Maven repository.",
-          "children": []
-        }
-      ],
-      "title": "Dependency management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-test-logger-plugin",
-          "description": "A Gradle plugin for printing beautiful logs on the console while running tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-03-15T23:57:23Z",
-            "owner": "radarsh",
-            "repo": "gradle-test-logger-plugin",
-            "stars": 887
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-console-reporter",
-          "description": "Report test result to console.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2021-08-12T17:07:31Z",
-            "owner": "ksoichiro",
-            "repo": "gradle-console-reporter",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-itest-plugin",
-          "description": "This plugin adds integration testing support to the project",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2021-08-31T16:23:10Z",
-            "owner": "Softeq",
-            "repo": "itest-gradle-plugin",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-gatling-plugin",
-          "description": "Run Gatling scenarios.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2023-12-04T14:37:10Z",
-            "owner": "alphagov",
-            "repo": "gradle-gatling-plugin",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "build-time-tracker-plugin",
-          "description": "Continuously track and report your build times.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2019-05-28T13:34:49Z",
-            "owner": "passy",
-            "repo": "build-time-tracker-plugin",
-            "stars": 1207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-metrics-plugin",
-          "description": "Collect Gradle build metrics and persist them to an external datastore.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-01-14T23:49:37Z",
-            "owner": "nebula-plugins",
-            "repo": "gradle-metrics-plugin",
-            "stars": 65
-          }
-        }
-      ],
-      "title": "Building"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-one-jar",
-          "description": "Build self-contained executable jars that include all dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2024-05-10T03:43:18Z",
-            "owner": "rholder",
-            "repo": "gradle-one-jar",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-build-info-plugin",
-          "description": "Include build information such as Git commit ID to your JAR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2017-01-02T08:07:48Z",
-            "owner": "ksoichiro",
-            "repo": "gradle-build-info-plugin",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-replacer",
-          "description": "Provide a minimalistic template engine feature.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2015-02-05T16:50:38Z",
-            "owner": "ksoichiro",
-            "repo": "gradle-replacer",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Packaging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-bintray-plugin",
-          "description": "Publish artifacts to Bintray.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2021-01-15T07:39:45Z",
-            "owner": "bintray",
-            "repo": "gradle-bintray-plugin",
-            "stars": 1272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-release",
-          "description": "Automate releasing process. Similar to the Maven release plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-06-18T11:15:14Z",
-            "owner": "researchgate",
-            "repo": "gradle-release",
-            "stars": 887
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-ssh-plugin",
-          "description": "Provide SSH facilities for continuous delivery.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-08-16T00:13:27Z",
-            "owner": "int128",
-            "repo": "gradle-ssh-plugin",
-            "stars": 325
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-nexus-plugin",
-          "description": "Configure and upload artifacts to Sonatype Nexus.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2021-03-21T23:42:26Z",
-            "owner": "bmuschko",
-            "repo": "gradle-nexus-plugin",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spotless-changelog",
-          "description": "Parses changelog to calculate next version, then updates changelog on publish.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-07-06T20:54:40Z",
-            "owner": "diffplug",
-            "repo": "spotless-changelog",
-            "stars": 49
-          }
-        }
-      ],
-      "title": "Releasing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-aws-plugin",
-          "description": "Manage AWS resouces.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-03-30T04:40:13Z",
-            "owner": "classmethod",
-            "repo": "gradle-aws-plugin",
-            "stars": 277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-s3-plugin",
-          "description": "Upload files to / download files from S3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2021-09-24T13:41:08Z",
-            "owner": "skhatri",
-            "repo": "gradle-s3-plugin",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-stash-plugin",
-          "description": "Interact with the Stash SCM.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2023-09-26T17:38:50Z",
-            "owner": "nebula-plugins",
-            "repo": "gradle-stash-plugin",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-cf-plugin",
-          "description": "Interact with CloudFoundry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2014-01-13T11:21:40Z",
-            "owner": "melix",
-            "repo": "gradle-cf-plugin",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Cloud services"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gradle-git",
-          "description": "Set of plugin to interact with Git repositories, publish files to gh-page, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2018-10-05T00:29:26Z",
-            "owner": "ajoberstar",
-            "repo": "gradle-git",
-            "stars": 561
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-svntools-plugin",
-          "description": "Provide various SVN-related tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2020-08-22T13:47:20Z",
-            "owner": "martoe",
-            "repo": "gradle-svntools-plugin",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-snapshot-plugin",
-          "description": "Generate build metadata from SCM tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2015-02-23T17:42:10Z",
-            "owner": "novabyte",
-            "repo": "gradle-snapshot-plugin",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "SCM"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bmuschko/gradle-docker-plugin",
-          "description": "Gradle plugin for managing Docker images and containers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-10-30T19:38:19Z",
-            "owner": "bmuschko",
-            "repo": "gradle-docker-plugin",
-            "stars": 1239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "palantir/gradle-docker",
-          "description": "Build and push Docker images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2026-08-18T06:58:08Z",
-            "owner": "palantir",
-            "repo": "gradle-docker",
-            "stars": 755
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transmode/gradle-docker",
-          "description": "Build Docker images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2020-08-20T11:48:11Z",
-            "owner": "Transmode",
-            "repo": "gradle-docker",
-            "stars": 650
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gradle-vagrant-plugin",
-          "description": "Manage Vagrant boxes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2021-03-21T23:47:27Z",
-            "owner": "bmuschko",
-            "repo": "gradle-vagrant-plugin",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nebula-docker-plugin",
-          "description": "Nebula gradle plugin for reducing boilerplate in creating docker images.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Groovy",
-            "last_commit": "2020-10-30T01:05:35Z",
-            "owner": "nebula-plugins",
-            "repo": "nebula-docker-plugin",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "VM and container"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1423,6 +1518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18262182,
             "language": "Java",
             "last_commit": "2021-01-01T22:04:27Z",
             "owner": "nenick",
@@ -1437,6 +1533,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8200827,
             "language": "Java",
             "last_commit": "2016-11-02T10:03:55Z",
             "owner": "vert-x",
@@ -1451,40 +1548,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15284707,
             "language": "Groovy",
             "last_commit": "2021-05-14T14:19:14Z",
             "owner": "int128",
             "repo": "gradle-plugin-starter",
             "stars": 37
           }
-        },
-        {
-          "node_type": "item",
-          "title": "gatling-with-gradle",
-          "description": "Sample project that demonstrates how to automate load testing with Gatling.",
-          "children": []
         }
       ],
       "title": "Boilerplates"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "To the extent possible under law, Soichiro Kashima has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:55:48.355Z",
+    "last_updated": "2026-08-19T09:56:04.162Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
     "enhanced_repository": "enhansome/enhansome-gradle",
