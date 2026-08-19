@@ -1561,8 +1561,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:56:04.162Z",
+    "last_updated": "2026-08-19T12:31:22.090Z",
     "original_repository": "ksoichiro/awesome-gradle",
+    "original_repository_id": 48367079,
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
     "enhanced_repository": "enhansome/enhansome-gradle",
     "enhanced_repository_description": null,
