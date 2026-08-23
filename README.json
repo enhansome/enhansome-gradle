@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 34685800,
                 "language": "Java",
-                "last_commit": "2026-08-20T18:50:33Z",
+                "last_commit": "2026-08-22T18:13:32Z",
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5620
+                "stars": 5621
               }
             },
             {
@@ -998,7 +998,7 @@
                 "last_commit": "2026-08-10T22:01:13Z",
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4079
+                "stars": 4078
               }
             },
             {
@@ -1561,7 +1561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:48:30.085Z",
+    "last_updated": "2026-08-23T09:50:22.623Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_id": 48367079,
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
