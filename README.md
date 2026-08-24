@@ -2,7 +2,7 @@
 
 > A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,430 | 🐛 106 | 📅 2026-08-21, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
 
 ## Table of contents
 
@@ -53,7 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,430 |
 
 ### Code quality
 
-* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,621 | 🐛 253 | 🌐 Java | 📅 2026-08-22 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
+* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,620 | 🐛 253 | 🌐 Java | 📅 2026-08-22 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
 * [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 402 | 🐛 4 | 🌐 Java | 📅 2026-08-21 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,226 | 🐛 519 | 🌐 Java | 📅 2026-08-24 compiler for Java.
 * [coveralls-gradle-plugin](https://github.com/kt3k/coveralls-gradle-plugin) ⚠️ Archived - Send coverage data to [coveralls.io](https://coveralls.io/).
 * [gradle-cobertura-plugin](https://github.com/stevesaliman/gradle-cobertura-plugin) ⭐ 119 | 🐛 37 | 🌐 Groovy | 📅 2022-05-21 - Use cobertura.
@@ -145,7 +145,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,430 |
 ### Templating
 
 * [markdown-gradle-plugin](https://github.com/aalmiray/markdown-gradle-plugin) ⭐ 73 | 🐛 9 | 🌐 Groovy | 📅 2022-01-01 - Convert Markdown to HTML.
-* [gradle-twirl](https://github.com/67726e/gradle-twirl) ⭐ 11 | 🐛 1 | 🌐 Groovy | 📅 2015-11-04 - Provide [Twirl](https://github.com/playframework/twirl) ⭐ 561 | 🐛 35 | 🌐 Scala | 📅 2026-08-24 template compilation and integration.
+* [gradle-twirl](https://github.com/67726e/gradle-twirl) ⭐ 11 | 🐛 1 | 🌐 Groovy | 📅 2015-11-04 - Provide [Twirl](https://github.com/playframework/twirl) ⭐ 561 | 🐛 34 | 🌐 Scala | 📅 2026-08-24 template compilation and integration.
 
 ### Database
 
@@ -198,8 +198,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,430 |
 
 ### Notification
 
-* [announce](https://docs.gradle.org/current/userguide/announce_plugin.html) - Official plugin that publishes messages to platforms such as Twitter or Growl.
 * [gradle-slack-plugin](https://github.com/Mindera/gradle-slack-plugin) ⭐ 153 | 🐛 4 | 🌐 Java | 📅 2019-11-05 - Send messages to Slack after each build.
+* [announce](https://docs.gradle.org/current/userguide/announce_plugin.html) - Official plugin that publishes messages to platforms such as Twitter or Growl.
 
 ### Cloud services
 

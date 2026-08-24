@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-22T18:13:32Z",
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5621
+                "stars": 5620
               }
             },
             {
@@ -1070,6 +1070,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "gradle-groovysh-plugin",
+              "description": "Start an interactive groovy shells.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19429330,
+                "language": "Groovy",
+                "last_commit": "2022-07-12T11:54:38Z",
+                "owner": "tkruse",
+                "repo": "gradle-groovysh-plugin",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debugging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "gradle-test-logger-plugin",
               "description": "A Gradle plugin for printing beautiful logs on the console while running tests.",
               "children": [],
@@ -1308,6 +1330,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "gradle-slack-plugin",
+              "description": "Send messages to Slack after each build.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35169005,
+                "language": "Java",
+                "last_commit": "2019-11-05T22:06:25Z",
+                "owner": "Mindera",
+                "repo": "gradle-slack-plugin",
+                "stars": 153
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Notification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "gradle-aws-plugin",
               "description": "Manage AWS resouces.",
               "children": [],
@@ -1422,6 +1466,28 @@
           "description": null,
           "node_type": "group",
           "title": "SCM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "build-info",
+              "description": "Artifactory's open integration layer for the CI servers and build tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1390800,
+                "language": "Java",
+                "last_commit": "2026-07-02T06:55:01Z",
+                "owner": "jfrog",
+                "repo": "build-info",
+                "stars": 153
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CI"
         },
         {
           "children": [
@@ -1561,7 +1627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:08:53.326Z",
+    "last_updated": "2026-08-24T14:26:14.590Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_id": 48367079,
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
