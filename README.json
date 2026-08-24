@@ -17,7 +17,7 @@
                 "last_commit": "2023-07-24T15:03:12Z",
                 "owner": "evant",
                 "repo": "gradle-retrolambda",
-                "stars": 5253
+                "stars": 5254
               }
             },
             {
@@ -297,7 +297,7 @@
                 "archived": false,
                 "id": 23878744,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T15:37:21Z",
+                "last_commit": "2026-08-23T19:41:26Z",
                 "owner": "wondrify",
                 "repo": "asset-pipeline",
                 "stars": 198
@@ -662,7 +662,7 @@
                     "last_commit": "2026-08-16T19:40:27Z",
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4312
+                    "stars": 4313
                   }
                 },
                 {
@@ -1013,7 +1013,7 @@
                 "last_commit": "2025-08-16T13:51:35Z",
                 "owner": "Splitties",
                 "repo": "refreshVersions",
-                "stars": 1709
+                "stars": 1710
               }
             },
             {
@@ -1561,7 +1561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:50:22.623Z",
+    "last_updated": "2026-08-24T10:08:53.326Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_id": 48367079,
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
