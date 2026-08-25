@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-22T18:13:32Z",
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5620
+                "stars": 5622
               }
             },
             {
@@ -662,7 +662,7 @@
                     "last_commit": "2026-08-16T19:40:27Z",
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4313
+                    "stars": 4315
                   }
                 },
                 {
@@ -995,10 +995,10 @@
                 "archived": false,
                 "id": 6973491,
                 "language": "Groovy",
-                "last_commit": "2026-08-10T22:01:13Z",
+                "last_commit": "2026-08-25T05:08:56Z",
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4078
+                "stars": 4079
               }
             },
             {
@@ -1627,7 +1627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:14.590Z",
+    "last_updated": "2026-08-25T06:18:20.596Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_id": 48367079,
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
