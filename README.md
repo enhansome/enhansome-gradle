@@ -2,7 +2,7 @@
 
 > A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 | 🐛 106 | 📅 2026-08-21, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,744 | 🐛 106 | 📅 2026-08-21, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
 
 ## Table of contents
 
@@ -54,7 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 |
 ### Code quality
 
 * [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,622 | 🐛 254 | 🌐 Java | 📅 2026-08-22 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
-* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 402 | 🐛 4 | 🌐 Java | 📅 2026-08-21 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,226 | 🐛 520 | 🌐 Java | 📅 2026-08-24 compiler for Java.
+* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 402 | 🐛 4 | 🌐 Java | 📅 2026-08-21 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,226 | 🐛 521 | 🌐 Java | 📅 2026-08-24 compiler for Java.
 * [coveralls-gradle-plugin](https://github.com/kt3k/coveralls-gradle-plugin) ⚠️ Archived - Send coverage data to [coveralls.io](https://coveralls.io/).
 * [gradle-cobertura-plugin](https://github.com/stevesaliman/gradle-cobertura-plugin) ⭐ 119 | 🐛 37 | 🌐 Groovy | 📅 2022-05-21 - Use cobertura.
 * [gradle-scoverage](https://github.com/scoverage/gradle-scoverage) ⭐ 54 | 🐛 46 | 🌐 Java | 📅 2026-07-19 - Enable the use of Scoverage in a Gradle Scala project.
@@ -84,7 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 |
 * [gretty](https://github.com/akhikhl/gretty) ⭐ 649 | 🐛 234 | 🌐 Groovy | 📅 2023-12-28 - Run web apps on jetty and tomcat.
 * [gradle-tomcat-plugin](https://github.com/bmuschko/gradle-tomcat-plugin) ⚠️ Archived - Support deployment of your web application to an embedded Tomcat web container.
 * [gradle-js-plugin](https://github.com/eriwen/gradle-js-plugin) ⚠️ Archived - Manage JavaScript.
-* [asset-pipeline](https://github.com/bertramdev/asset-pipeline) ⭐ 198 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-23 - Manage and process static assets in JVM applications.
+* [asset-pipeline](https://github.com/bertramdev/asset-pipeline) ⭐ 198 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-23 - Manage and process static assets in JVM applications.
 * [gradle-grunt-plugin](https://github.com/srs/gradle-grunt-plugin) ⭐ 106 | 🐛 15 | 📅 2016-12-02 - Run Grunt tasks.
 * [gradle-gulp-plugin](https://github.com/srs/gradle-gulp-plugin) ⭐ 69 | 🐛 15 | 📅 2016-12-02 - Run Gulp tasks.
 * [gradle-compass](https://github.com/robfletcher/gradle-compass) ⭐ 60 | 🐛 36 | 🌐 Groovy | 📅 2020-01-10 - Compile and watche SASS files.
@@ -189,7 +189,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 |
 ### Releasing
 
 * [gradle-bintray-plugin](https://github.com/bintray/gradle-bintray-plugin) ⭐ 1,272 | 🐛 165 | 🌐 Groovy | 📅 2021-01-15 - Publish artifacts to Bintray.
-* [gradle-release](https://github.com/researchgate/gradle-release) ⭐ 887 | 🐛 137 | 🌐 Groovy | 📅 2026-06-18 - Automate releasing process. Similar to the Maven release plugin.
+* [gradle-release](https://github.com/researchgate/gradle-release) ⭐ 886 | 🐛 137 | 🌐 Groovy | 📅 2026-06-18 - Automate releasing process. Similar to the Maven release plugin.
 * [gradle-ssh-plugin](https://github.com/int128/gradle-ssh-plugin) ⭐ 325 | 🐛 55 | 🌐 Groovy | 📅 2026-08-22 - Provide SSH facilities for continuous delivery.
 * [gradle-nexus-plugin](https://github.com/bmuschko/gradle-nexus-plugin) ⚠️ Archived - Configure and upload artifacts to Sonatype Nexus.
 * [spotless-changelog](https://github.com/diffplug/spotless-changelog) ⭐ 49 | 🐛 12 | 🌐 Java | 📅 2024-07-06 - Parses changelog to calculate next version, then updates changelog on publish.
@@ -237,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 |
 
 ### General Resources
 
-* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,795 | 🐛 3,460 | 🌐 Groovy | 📅 2026-08-25
+* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,794 | 🐛 3,459 | 🌐 Groovy | 📅 2026-08-25
 * [Gradle Forums](https://discuss.gradle.org/)
 * [Gradle Plugin Portal](https://plugins.gradle.org/)
 

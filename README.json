@@ -1273,7 +1273,7 @@
                 "last_commit": "2026-06-18T11:15:14Z",
                 "owner": "researchgate",
                 "repo": "gradle-release",
-                "stars": 887
+                "stars": 886
               }
             },
             {
@@ -1627,7 +1627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:20.596Z",
+    "last_updated": "2026-08-25T09:58:28.776Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_id": 48367079,
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
