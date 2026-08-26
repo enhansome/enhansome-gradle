@@ -17,7 +17,7 @@
                 "last_commit": "2023-07-24T15:03:12Z",
                 "owner": "evant",
                 "repo": "gradle-retrolambda",
-                "stars": 5254
+                "stars": 5253
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-22T18:13:32Z",
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5622
+                "stars": 5623
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 125682893,
                 "language": "Java",
-                "last_commit": "2026-08-21T21:44:53Z",
+                "last_commit": "2026-08-25T15:52:27Z",
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
-                "stars": 402
+                "stars": 403
               }
             },
             {
@@ -297,7 +297,7 @@
                 "archived": false,
                 "id": 23878744,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T19:41:26Z",
+                "last_commit": "2026-08-25T13:44:52Z",
                 "owner": "wondrify",
                 "repo": "asset-pipeline",
                 "stars": 198
@@ -995,7 +995,7 @@
                 "archived": false,
                 "id": 6973491,
                 "language": "Groovy",
-                "last_commit": "2026-08-25T05:08:56Z",
+                "last_commit": "2026-08-26T06:08:41Z",
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
                 "stars": 4079
@@ -1627,7 +1627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:58:28.776Z",
+    "last_updated": "2026-08-26T10:03:58.948Z",
     "original_repository": "ksoichiro/awesome-gradle",
     "original_repository_id": 48367079,
     "original_repository_sha": "2b6e33c64a2af6ea3a333155a22da9c80b2a05f3",
