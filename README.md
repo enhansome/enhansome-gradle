@@ -2,7 +2,7 @@
 
 > A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,047 | 🐛 106 | 📅 2026-08-21, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,364 | 🐛 105 | 📅 2026-08-21, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
 
 ## Table of contents
 
@@ -53,8 +53,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,047 |
 
 ### Code quality
 
-* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,623 | 🐛 255 | 🌐 Java | 📅 2026-08-22 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
-* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 403 | 🐛 2 | 🌐 Java | 📅 2026-08-25 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,225 | 🐛 521 | 🌐 Java | 📅 2026-08-25 compiler for Java.
+* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,626 | 🐛 255 | 🌐 Java | 📅 2026-08-22 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
+* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 403 | 🐛 2 | 🌐 Java | 📅 2026-08-25 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,225 | 🐛 523 | 🌐 Java | 📅 2026-08-27 compiler for Java.
 * [coveralls-gradle-plugin](https://github.com/kt3k/coveralls-gradle-plugin) ⚠️ Archived - Send coverage data to [coveralls.io](https://coveralls.io/).
 * [gradle-cobertura-plugin](https://github.com/stevesaliman/gradle-cobertura-plugin) ⭐ 119 | 🐛 37 | 🌐 Groovy | 📅 2022-05-21 - Use cobertura.
 * [gradle-scoverage](https://github.com/scoverage/gradle-scoverage) ⭐ 54 | 🐛 46 | 🌐 Java | 📅 2026-07-19 - Enable the use of Scoverage in a Gradle Scala project.
@@ -115,7 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,047 |
   * [gradle-mdicons](https://github.com/tmiyamon/gradle-mdicons) ⚠️ Archived - Manage material design icons.
   * [gradle-android-appiconoverlay](https://github.com/splatte/gradle-android-appiconoverlay) ⭐ 66 | 🐛 2 | 🌐 Groovy | 📅 2017-11-25 - Automatically overlay the app icon with the current git commit SHA1.
 * Releasing
-  * [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) ⭐ 4,315 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-16 - Manage your complete Play Store presence in your repository: Listing, Release Notes, APKs and App Bundles.
+  * [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) ⭐ 4,315 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-26 - Manage your complete Play Store presence in your repository: Listing, Release Notes, APKs and App Bundles.
   * [testfairy-gradle-plugin](https://github.com/testfairy/testfairy-gradle-plugin) ⭐ 92 | 🐛 10 | 🌐 Groovy | 📅 2021-12-20 - Official plugin to upload signed builds to TestFairy.
   * [gradle-deploygate-plugin](https://github.com/deploygate/gradle-deploygate-plugin) ⭐ 90 | 🐛 7 | 🌐 Groovy | 📅 2026-08-05 - Build and deploy apps to DeployGate.
 * Testing
@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,047 |
 
 * [gradle-bintray-plugin](https://github.com/bintray/gradle-bintray-plugin) ⭐ 1,272 | 🐛 165 | 🌐 Groovy | 📅 2021-01-15 - Publish artifacts to Bintray.
 * [gradle-release](https://github.com/researchgate/gradle-release) ⭐ 886 | 🐛 137 | 🌐 Groovy | 📅 2026-06-18 - Automate releasing process. Similar to the Maven release plugin.
-* [gradle-ssh-plugin](https://github.com/int128/gradle-ssh-plugin) ⭐ 325 | 🐛 55 | 🌐 Groovy | 📅 2026-08-22 - Provide SSH facilities for continuous delivery.
+* [gradle-ssh-plugin](https://github.com/int128/gradle-ssh-plugin) ⭐ 325 | 🐛 55 | 🌐 Groovy | 📅 2026-08-27 - Provide SSH facilities for continuous delivery.
 * [gradle-nexus-plugin](https://github.com/bmuschko/gradle-nexus-plugin) ⚠️ Archived - Configure and upload artifacts to Sonatype Nexus.
 * [spotless-changelog](https://github.com/diffplug/spotless-changelog) ⭐ 49 | 🐛 12 | 🌐 Java | 📅 2024-07-06 - Parses changelog to calculate next version, then updates changelog on publish.
 * [maven](https://docs.gradle.org/current/userguide/maven_plugin.html) - Official plugin that adds support for publishing artifacts to Maven repositories.
@@ -237,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,047 |
 
 ### General Resources
 
-* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,797 | 🐛 3,461 | 🌐 Groovy | 📅 2026-08-26
+* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,805 | 🐛 3,455 | 🌐 Groovy | 📅 2026-08-27
 * [Gradle Forums](https://discuss.gradle.org/)
 * [Gradle Plugin Portal](https://plugins.gradle.org/)
 
@@ -258,4 +258,4 @@ To the extent possible under law, [Soichiro Kashima](https://github.com/ksoichir
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
