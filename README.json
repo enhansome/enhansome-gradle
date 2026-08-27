@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 34685800,
                 "language": "Java",
-                "last_commit": "2026-08-22T18:13:32Z",
+                "last_commit": "2026-08-27T16:54:03Z",
                 "owner": "diffplug",
                 "repo": "spotless",
                 "stars": 5626
@@ -662,7 +662,7 @@
                     "last_commit": "2026-08-26T21:50:25Z",
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4315
+                    "stars": 4316
                   }
                 },
                 {
@@ -1285,7 +1285,7 @@
                 "archived": false,
                 "id": 6459731,
                 "language": "Groovy",
-                "last_commit": "2026-08-27T00:08:37Z",
+                "last_commit": "2026-08-27T19:50:23Z",
                 "owner": "int128",
                 "repo": "gradle-ssh-plugin",
                 "stars": 325
@@ -1515,7 +1515,7 @@
                 "archived": false,
                 "id": 42682769,
                 "language": "Groovy",
-                "last_commit": "2026-08-18T12:09:10Z",
+                "last_commit": "2026-08-27T14:19:59Z",
                 "owner": "palantir",
                 "repo": "gradle-docker",
                 "stars": 755
@@ -1627,7 +1627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:39.479Z",
+    "last_updated": "2026-08-27T19:54:11.630Z",
     "original_repository_info": {
       "archived": false,
       "id": 48367079,
