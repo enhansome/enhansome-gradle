@@ -2,7 +2,7 @@
 
 > A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 | 🐛 105 | 📅 2026-08-21, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
 
 ## Table of contents
 
@@ -190,7 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 * [gradle-bintray-plugin](https://github.com/bintray/gradle-bintray-plugin) ⭐ 1,272 | 🐛 165 | 🌐 Groovy | 📅 2021-01-15 - Publish artifacts to Bintray.
 * [gradle-release](https://github.com/researchgate/gradle-release) ⭐ 886 | 🐛 137 | 🌐 Groovy | 📅 2026-06-18 - Automate releasing process. Similar to the Maven release plugin.
-* [gradle-ssh-plugin](https://github.com/int128/gradle-ssh-plugin) ⭐ 325 | 🐛 56 | 🌐 Groovy | 📅 2026-08-28 - Provide SSH facilities for continuous delivery.
+* [gradle-ssh-plugin](https://github.com/int128/gradle-ssh-plugin) ⭐ 325 | 🐛 55 | 🌐 Groovy | 📅 2026-08-28 - Provide SSH facilities for continuous delivery.
 * [gradle-nexus-plugin](https://github.com/bmuschko/gradle-nexus-plugin) ⚠️ Archived - Configure and upload artifacts to Sonatype Nexus.
 * [spotless-changelog](https://github.com/diffplug/spotless-changelog) ⭐ 49 | 🐛 12 | 🌐 Java | 📅 2024-07-06 - Parses changelog to calculate next version, then updates changelog on publish.
 * [maven](https://docs.gradle.org/current/userguide/maven_plugin.html) - Official plugin that adds support for publishing artifacts to Maven repositories.
@@ -237,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 ### General Resources
 
-* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,806 | 🐛 3,460 | 🌐 Groovy | 📅 2026-08-28
+* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,808 | 🐛 3,460 | 🌐 Groovy | 📅 2026-08-29
 * [Gradle Forums](https://discuss.gradle.org/)
 * [Gradle Plugin Portal](https://plugins.gradle.org/)
 
@@ -258,4 +258,4 @@ To the extent possible under law, [Soichiro Kashima](https://github.com/ksoichir
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
