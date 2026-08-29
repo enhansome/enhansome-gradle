@@ -2276,8 +2276,8 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T19:37:11Z",
-                "open_issues": 126,
+                "last_commit": "2026-08-29T14:32:10Z",
+                "open_issues": 128,
                 "owner": "palantir",
                 "repo": "gradle-docker",
                 "stars": 755,
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:47.320Z",
+    "last_updated": "2026-08-29T14:36:27.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
