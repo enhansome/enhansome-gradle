@@ -77,7 +77,7 @@
                 "open_issues": 253,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5629,
+                "stars": 5630,
                 "topics": [
                   "css",
                   "formatter",
@@ -693,7 +693,7 @@
                     "open_issues": 43,
                     "owner": "JakeWharton",
                     "repo": "sdk-manager-plugin",
-                    "stars": 1404,
+                    "stars": 1405,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1501,8 +1501,8 @@
                 "id": 6973491,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T05:15:33Z",
-                "open_issues": 64,
+                "last_commit": "2026-08-31T13:32:19Z",
+                "open_issues": 65,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
                 "stars": 4080,
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:28:02.038Z",
+    "last_updated": "2026-08-31T17:08:29.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
