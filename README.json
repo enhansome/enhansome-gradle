@@ -74,10 +74,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:54:03Z",
-                "open_issues": 253,
+                "open_issues": 255,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5630,
+                "stars": 5631,
                 "topics": [
                   "css",
                   "formatter",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:08:29.386Z",
+    "last_updated": "2026-09-01T14:13:09.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
