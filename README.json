@@ -74,10 +74,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:54:03Z",
-                "open_issues": 255,
+                "open_issues": 256,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5633,
+                "stars": 5638,
                 "topics": [
                   "css",
                   "formatter",
@@ -109,7 +109,7 @@
                 "id": 125682893,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T09:29:04Z",
+                "last_commit": "2026-09-04T09:39:33Z",
                 "open_issues": 2,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
@@ -259,7 +259,7 @@
                 "open_issues": 0,
                 "owner": "ewerk",
                 "repo": "gradle-plugins",
-                "stars": 144,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1501,11 +1501,11 @@
                 "id": 6973491,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T01:12:03Z",
+                "last_commit": "2026-09-04T06:09:50Z",
                 "open_issues": 65,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4081,
+                "stars": 4080,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1659,7 +1659,7 @@
                 "open_issues": 36,
                 "owner": "radarsh",
                 "repo": "gradle-test-logger-plugin",
-                "stars": 886,
+                "stars": 887,
                 "topics": [
                   "ansi-colors",
                   "colours",
@@ -2253,7 +2253,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-30T19:38:19Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "bmuschko",
                 "repo": "gradle-docker-plugin",
                 "stars": 1239,
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:41:20.830Z",
+    "last_updated": "2026-09-04T13:38:01.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
