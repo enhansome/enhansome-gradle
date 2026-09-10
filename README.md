@@ -2,7 +2,7 @@
 
 > A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,437 | 🐛 106 | 📅 2026-09-02, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 | 🐛 106 | 📅 2026-09-02, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 624 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
 
 ## Table of contents
 
@@ -39,7 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,437 |
 
 ### Language
 
-* [gradle-retrolambda](https://github.com/evant/gradle-retrolambda) ⭐ 5,251 | 🐛 76 | 🌐 Java | 📅 2023-07-24 - Get Java lambda support in Java 6, 7 and Android.
+* [gradle-retrolambda](https://github.com/evant/gradle-retrolambda) ⭐ 5,250 | 🐛 76 | 🌐 Java | 📅 2023-07-24 - Get Java lambda support in Java 6, 7 and Android.
 * [clojurephant](https://github.com/clojurephant/clojurephant) ⚠️ Archived - Clojure/ClojureScript support for Gradle
 * [java](https://docs.gradle.org/current/userguide/java_plugin.html) - Official plugin that adds Java compilation, testing and bundling capabilities.
 * [groovy](https://docs.gradle.org/current/userguide/groovy_plugin.html) - Official plugin that adds support for building Groovy projects.
@@ -53,8 +53,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,437 |
 
 ### Code quality
 
-* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,639 | 🐛 255 | 🌐 Java | 📅 2026-09-08 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
-* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 405 | 🐛 3 | 🌐 Java | 📅 2026-09-04 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,235 | 🐛 526 | 🌐 Java | 📅 2026-09-09 compiler for Java.
+* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,639 | 🐛 259 | 🌐 Java | 📅 2026-09-10 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
+* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 405 | 🐛 2 | 🌐 Java | 📅 2026-09-04 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,236 | 🐛 526 | 🌐 Java | 📅 2026-09-10 compiler for Java.
 * [coveralls-gradle-plugin](https://github.com/kt3k/coveralls-gradle-plugin) ⚠️ Archived - Send coverage data to [coveralls.io](https://coveralls.io/).
 * [gradle-cobertura-plugin](https://github.com/stevesaliman/gradle-cobertura-plugin) ⭐ 119 | 🐛 37 | 🌐 Groovy | 📅 2022-05-21 - Use cobertura.
 * [gradle-scoverage](https://github.com/scoverage/gradle-scoverage) ⭐ 55 | 🐛 46 | 🌐 Java | 📅 2026-07-19 - Enable the use of Scoverage in a Gradle Scala project.
@@ -104,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,437 |
 * Alternative language
   * [groovy-android-gradle-plugin](https://github.com/groovy/groovy-android-gradle-plugin) ⚠️ Archived - Support the Groovy language for building Android apps.
 * APK handling
-  * [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) ⭐ 3,072 | 🐛 1 | 🌐 Java | 📅 2025-11-26 - Report the number of method references in APK.
+  * [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) ⭐ 3,071 | 🐛 1 | 🌐 Java | 📅 2025-11-26 - Report the number of method references in APK.
   * [gradle-android-apk-size-plugin](https://github.com/vanniktech/gradle-android-apk-size-plugin) ⚠️ Archived - Gradle plugin that generates CSV files with apk size per output and variant of an apk.
   * [android-gradle-mulchannel-plugin](https://github.com/ihrthk/android-gradle-mulchannel-plugin) ⭐ 43 | 🐛 5 | 🌐 Groovy | 📅 2016-01-25 - Generate multiple apks from different channel.
 * Build variant handling
@@ -156,7 +156,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,437 |
 
 ### Dependency management
 
-* [gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) ⭐ 4,083 | 🐛 66 | 🌐 Groovy | 📅 2026-09-08 - Provide a task to determine which dependencies have updates.
+* [gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) ⭐ 4,083 | 🐛 66 | 🌐 Groovy | 📅 2026-09-10 - Provide a task to determine which dependencies have updates.
 * [buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) ⭐ 1,711 | 🐛 129 | 🌐 Kotlin | 📅 2025-08-16 - Painless dependencies management.
 * [gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin) ⭐ 303 | 🐛 29 | 🌐 Groovy | 📅 2026-08-10 - Allow people using dynamic dependency versions to lock them to specific versions.
 * [gradle-nuget-plugin](https://github.com/Ullink/gradle-nuget-plugin) ⭐ 22 | 🐛 14 | 🌐 Groovy | 📅 2026-03-27 - Execute NuGet.exe from Gradle.
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,437 |
 
 ### CI
 
-* [build-info](https://github.com/jfrogdev/build-info) ⭐ 153 | 🐛 44 | 🌐 Java | 📅 2026-09-09 - Artifactory's open integration layer for the CI servers and build tools.
+* [build-info](https://github.com/jfrogdev/build-info) ⭐ 153 | 🐛 45 | 🌐 Java | 📅 2026-09-10 - Artifactory's open integration layer for the CI servers and build tools.
 
 ### VM and container
 
@@ -237,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,437 |
 
 ### General Resources
 
-* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,830 | 🐛 3,490 | 🌐 Groovy | 📅 2026-09-09
+* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,832 | 🐛 3,483 | 🌐 Groovy | 📅 2026-09-10
 * [Gradle Forums](https://discuss.gradle.org/)
 * [Gradle Plugin Portal](https://plugins.gradle.org/)
 
@@ -258,4 +258,4 @@ To the extent possible under law, [Soichiro Kashima](https://github.com/ksoichir
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

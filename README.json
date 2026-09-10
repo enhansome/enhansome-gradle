@@ -21,7 +21,7 @@
                 "open_issues": 76,
                 "owner": "evant",
                 "repo": "gradle-retrolambda",
-                "stars": 5251,
+                "stars": 5250,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -73,8 +73,8 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T22:24:07Z",
-                "open_issues": 255,
+                "last_commit": "2026-09-10T13:14:51Z",
+                "open_issues": 259,
                 "owner": "diffplug",
                 "repo": "spotless",
                 "stars": 5639,
@@ -110,7 +110,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T16:19:37Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
                 "stars": 405,
@@ -770,7 +770,7 @@
                     "open_issues": 1,
                     "owner": "KeepSafe",
                     "repo": "dexcount-gradle-plugin",
-                    "stars": 3072,
+                    "stars": 3071,
                     "topics": [
                       "android",
                       "gradle",
@@ -1501,7 +1501,7 @@
                 "id": 6973491,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T01:05:25Z",
+                "last_commit": "2026-09-10T03:36:10Z",
                 "open_issues": 66,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
@@ -2224,8 +2224,8 @@
                 "id": 1390800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T12:47:08Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-10T08:54:16Z",
+                "open_issues": 45,
                 "owner": "jfrog",
                 "repo": "build-info",
                 "stars": 153,
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:48:10.416Z",
+    "last_updated": "2026-09-10T13:43:14.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
