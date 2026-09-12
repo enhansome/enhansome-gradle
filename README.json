@@ -1501,7 +1501,7 @@
                 "id": 6973491,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T06:17:51Z",
+                "last_commit": "2026-09-12T06:50:59Z",
                 "open_issues": 65,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
@@ -1946,7 +1946,7 @@
                 "id": 6459731,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:15:22Z",
+                "last_commit": "2026-09-12T05:55:41Z",
                 "open_issues": 56,
                 "owner": "int128",
                 "repo": "gradle-ssh-plugin",
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T18:12:06Z",
+                "last_commit": "2026-09-11T16:26:57Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:41:11.701Z",
+    "last_updated": "2026-09-12T12:57:18.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
