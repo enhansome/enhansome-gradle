@@ -73,11 +73,11 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T08:39:53Z",
+                "last_commit": "2026-09-14T12:20:13Z",
                 "open_issues": 259,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5645,
+                "stars": 5647,
                 "topics": [
                   "css",
                   "formatter",
@@ -449,7 +449,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-25T13:44:52Z",
-                "open_issues": 39,
+                "open_issues": 37,
                 "owner": "wondrify",
                 "repo": "asset-pipeline",
                 "stars": 198,
@@ -1501,11 +1501,11 @@
                 "id": 6973491,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T05:28:12Z",
-                "open_issues": 66,
+                "last_commit": "2026-09-14T13:43:26Z",
+                "open_issues": 60,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4084,
+                "stars": 4086,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1526,7 +1526,7 @@
                 "open_issues": 129,
                 "owner": "Splitties",
                 "repo": "refreshVersions",
-                "stars": 1711,
+                "stars": 1710,
                 "topics": [
                   "android",
                   "gradle",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:50:54.874Z",
+    "last_updated": "2026-09-14T15:56:32.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
