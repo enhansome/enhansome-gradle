@@ -73,11 +73,11 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T12:20:13Z",
-                "open_issues": 259,
+                "last_commit": "2026-09-15T13:29:33Z",
+                "open_issues": 254,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5647,
+                "stars": 5648,
                 "topics": [
                   "css",
                   "formatter",
@@ -1126,7 +1126,7 @@
                     "open_issues": 63,
                     "owner": "pedrovgs",
                     "repo": "Shot",
-                    "stars": 1207,
+                    "stars": 1208,
                     "topics": [
                       "android",
                       "gradle-plugin",
@@ -1501,11 +1501,11 @@
                 "id": 6973491,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T13:43:26Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-15T13:57:58Z",
+                "open_issues": 57,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4086,
+                "stars": 4085,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -2225,7 +2225,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T08:54:16Z",
-                "open_issues": 45,
+                "open_issues": 44,
                 "owner": "jfrog",
                 "repo": "build-info",
                 "stars": 153,
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:56:32.743Z",
+    "last_updated": "2026-09-15T14:23:05.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
