@@ -987,7 +987,7 @@
                     "open_issues": 22,
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4317,
+                    "stars": 4318,
                     "topics": [
                       "android",
                       "android-development",
@@ -1777,7 +1777,7 @@
                 "open_issues": 21,
                 "owner": "passy",
                 "repo": "build-time-tracker-plugin",
-                "stars": 1206,
+                "stars": 1205,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:41:58.105Z",
+    "last_updated": "2026-09-19T13:14:51.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
