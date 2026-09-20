@@ -77,7 +77,7 @@
                 "open_issues": 247,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5654,
+                "stars": 5656,
                 "topics": [
                   "css",
                   "formatter",
@@ -113,7 +113,7 @@
                 "open_issues": 2,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
-                "stars": 405,
+                "stars": 406,
                 "topics": [
                   "error-prone",
                   "errorprone",
@@ -1946,7 +1946,7 @@
                 "id": 6459731,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T05:55:41Z",
+                "last_commit": "2026-09-20T00:19:20Z",
                 "open_issues": 56,
                 "owner": "int128",
                 "repo": "gradle-ssh-plugin",
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T09:10:27Z",
+                "last_commit": "2026-09-20T02:29:51Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:14:51.204Z",
+    "last_updated": "2026-09-20T13:37:54.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
