@@ -77,7 +77,7 @@
                 "open_issues": 247,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5656,
+                "stars": 5659,
                 "topics": [
                   "css",
                   "formatter",
@@ -770,7 +770,7 @@
                     "open_issues": 1,
                     "owner": "KeepSafe",
                     "repo": "dexcount-gradle-plugin",
-                    "stars": 3072,
+                    "stars": 3070,
                     "topics": [
                       "android",
                       "gradle",
@@ -987,7 +987,7 @@
                     "open_issues": 22,
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4318,
+                    "stars": 4319,
                     "topics": [
                       "android",
                       "android-development",
@@ -1501,11 +1501,11 @@
                 "id": 6973491,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T04:57:46Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-21T13:32:45Z",
+                "open_issues": 56,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4087,
+                "stars": 4086,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1904,7 +1904,7 @@
                 "open_issues": 165,
                 "owner": "bintray",
                 "repo": "gradle-bintray-plugin",
-                "stars": 1272,
+                "stars": 1271,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -2154,7 +2154,7 @@
                 "open_issues": 0,
                 "owner": "ajoberstar",
                 "repo": "gradle-git",
-                "stars": 560,
+                "stars": 561,
                 "topics": [
                   "git",
                   "gradle",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:37:54.946Z",
+    "last_updated": "2026-09-21T15:58:00.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
