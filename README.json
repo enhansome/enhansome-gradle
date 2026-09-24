@@ -74,10 +74,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T23:02:22Z",
-                "open_issues": 247,
+                "open_issues": 249,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5661,
+                "stars": 5662,
                 "topics": [
                   "css",
                   "formatter",
@@ -987,7 +987,7 @@
                     "open_issues": 22,
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4320,
+                    "stars": 4319,
                     "topics": [
                       "android",
                       "android-development",
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T17:32:56Z",
+                "last_commit": "2026-09-23T18:31:47Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:18:15.822Z",
+    "last_updated": "2026-09-24T14:16:37.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
