@@ -74,10 +74,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T23:02:22Z",
-                "open_issues": 249,
+                "open_issues": 250,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5662,
+                "stars": 5663,
                 "topics": [
                   "css",
                   "formatter",
@@ -109,7 +109,7 @@
                 "id": 125682893,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T09:50:39Z",
+                "last_commit": "2026-09-24T16:13:52Z",
                 "open_issues": 2,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
@@ -1946,7 +1946,7 @@
                 "id": 6459731,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T05:28:39Z",
+                "last_commit": "2026-09-25T01:59:11Z",
                 "open_issues": 55,
                 "owner": "int128",
                 "repo": "gradle-ssh-plugin",
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T18:31:47Z",
+                "last_commit": "2026-09-24T20:53:48Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:16:37.915Z",
+    "last_updated": "2026-09-25T14:39:53.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
