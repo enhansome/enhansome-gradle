@@ -74,10 +74,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T05:39:18Z",
-                "open_issues": 249,
+                "open_issues": 251,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5672,
+                "stars": 5673,
                 "topics": [
                   "css",
                   "formatter",
@@ -448,8 +448,8 @@
                 "id": 23878744,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T16:39:07Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-29T12:22:22Z",
+                "open_issues": 37,
                 "owner": "wondrify",
                 "repo": "asset-pipeline",
                 "stars": 198,
@@ -742,7 +742,7 @@
                     "open_issues": 5,
                     "owner": "groovy",
                     "repo": "groovy-android-gradle-plugin",
-                    "stars": 845,
+                    "stars": 844,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1718,7 +1718,7 @@
                 "open_issues": 0,
                 "owner": "Softeq",
                 "repo": "itest-gradle-plugin",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "gradle",
                   "gradle-plugin",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:44:37.606Z",
+    "last_updated": "2026-09-29T16:01:28.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",

@@ -2,7 +2,7 @@
 
 > A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,907 | 🐛 106 | 📅 2026-09-02, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 623 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,307 | 🐛 106 | 📅 2026-09-02, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 623 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
 
 ## Table of contents
 
@@ -53,8 +53,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,907 |
 
 ### Code quality
 
-* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,672 | 🐛 249 | 🌐 Java | 📅 2026-09-28 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
-* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 406 | 🐛 2 | 🌐 Java | 📅 2026-09-24 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,242 | 🐛 540 | 🌐 Java | 📅 2026-09-28 compiler for Java.
+* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,673 | 🐛 251 | 🌐 Java | 📅 2026-09-28 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
+* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 406 | 🐛 2 | 🌐 Java | 📅 2026-09-24 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,243 | 🐛 539 | 🌐 Java | 📅 2026-09-29 compiler for Java.
 * [coveralls-gradle-plugin](https://github.com/kt3k/coveralls-gradle-plugin) ⚠️ Archived - Send coverage data to [coveralls.io](https://coveralls.io/).
 * [gradle-cobertura-plugin](https://github.com/stevesaliman/gradle-cobertura-plugin) ⭐ 119 | 🐛 37 | 🌐 Groovy | 📅 2022-05-21 - Use cobertura.
 * [gradle-scoverage](https://github.com/scoverage/gradle-scoverage) ⭐ 55 | 🐛 46 | 🌐 Java | 📅 2026-07-19 - Enable the use of Scoverage in a Gradle Scala project.
@@ -84,7 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,907 |
 * [gretty](https://github.com/akhikhl/gretty) ⭐ 648 | 🐛 234 | 🌐 Groovy | 📅 2023-12-28 - Run web apps on jetty and tomcat.
 * [gradle-tomcat-plugin](https://github.com/bmuschko/gradle-tomcat-plugin) ⚠️ Archived - Support deployment of your web application to an embedded Tomcat web container.
 * [gradle-js-plugin](https://github.com/eriwen/gradle-js-plugin) ⚠️ Archived - Manage JavaScript.
-* [asset-pipeline](https://github.com/bertramdev/asset-pipeline) ⭐ 198 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-16 - Manage and process static assets in JVM applications.
+* [asset-pipeline](https://github.com/bertramdev/asset-pipeline) ⭐ 198 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-29 - Manage and process static assets in JVM applications.
 * [gradle-grunt-plugin](https://github.com/srs/gradle-grunt-plugin) ⭐ 106 | 🐛 15 | 📅 2016-12-02 - Run Grunt tasks.
 * [gradle-gulp-plugin](https://github.com/srs/gradle-gulp-plugin) ⭐ 69 | 🐛 15 | 📅 2016-12-02 - Run Gulp tasks.
 * [gradle-compass](https://github.com/robfletcher/gradle-compass) ⭐ 60 | 🐛 36 | 🌐 Groovy | 📅 2020-01-10 - Compile and watche SASS files.
@@ -145,7 +145,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,907 |
 ### Templating
 
 * [markdown-gradle-plugin](https://github.com/aalmiray/markdown-gradle-plugin) ⭐ 73 | 🐛 9 | 🌐 Groovy | 📅 2022-01-01 - Convert Markdown to HTML.
-* [gradle-twirl](https://github.com/67726e/gradle-twirl) ⭐ 11 | 🐛 1 | 🌐 Groovy | 📅 2015-11-04 - Provide [Twirl](https://github.com/playframework/twirl) ⭐ 561 | 🐛 31 | 🌐 Scala | 📅 2026-09-28 template compilation and integration.
+* [gradle-twirl](https://github.com/67726e/gradle-twirl) ⭐ 11 | 🐛 1 | 🌐 Groovy | 📅 2015-11-04 - Provide [Twirl](https://github.com/playframework/twirl) ⭐ 561 | 🐛 31 | 🌐 Scala | 📅 2026-09-29 template compilation and integration.
 
 ### Database
 
@@ -171,7 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,907 |
 
 * [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) ⭐ 887 | 🐛 36 | 🌐 Groovy | 📅 2026-03-15 - A Gradle plugin for printing beautiful logs on the console while running tests.
 * [gradle-console-reporter](https://github.com/ksoichiro/gradle-console-reporter) ⭐ 55 | 🐛 8 | 🌐 Groovy | 📅 2021-08-12 - Report test result to console.
-* [gradle-itest-plugin](https://github.com/Softeq/itest-gradle-plugin) ⭐ 18 | 🐛 0 | 🌐 Groovy | 📅 2021-08-31 - This plugin adds integration testing support to the project
+* [gradle-itest-plugin](https://github.com/Softeq/itest-gradle-plugin) ⭐ 19 | 🐛 0 | 🌐 Groovy | 📅 2021-08-31 - This plugin adds integration testing support to the project
 * [gradle-gatling-plugin](https://github.com/alphagov/gradle-gatling-plugin) ⚠️ Archived - Run [Gatling](http://gatling.io/) scenarios.
 
 ### Building
@@ -237,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,907 |
 
 ### General Resources
 
-* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,860 | 🐛 3,503 | 🌐 Groovy | 📅 2026-09-28
+* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,862 | 🐛 3,504 | 🌐 Groovy | 📅 2026-09-29
 * [Gradle Forums](https://discuss.gradle.org/)
 * [Gradle Plugin Portal](https://plugins.gradle.org/)
 
@@ -258,4 +258,4 @@ To the extent possible under law, [Soichiro Kashima](https://github.com/ksoichir
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
