@@ -77,7 +77,7 @@
                 "open_issues": 261,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5679,
+                "stars": 5680,
                 "topics": [
                   "css",
                   "formatter",
@@ -448,8 +448,8 @@
                 "id": 23878744,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T19:17:57Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-04T14:46:37Z",
+                "open_issues": 42,
                 "owner": "wondrify",
                 "repo": "asset-pipeline",
                 "stars": 198,
@@ -1946,7 +1946,7 @@
                 "id": 6459731,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T00:33:19Z",
+                "last_commit": "2026-10-03T16:59:45Z",
                 "open_issues": 52,
                 "owner": "int128",
                 "repo": "gradle-ssh-plugin",
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T13:10:58Z",
+                "last_commit": "2026-10-04T11:42:47Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:21:26.657Z",
+    "last_updated": "2026-10-04T14:53:44.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
