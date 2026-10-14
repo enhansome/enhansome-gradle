@@ -113,7 +113,7 @@
                 "open_issues": 4,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
-                "stars": 407,
+                "stars": 409,
                 "topics": [
                   "error-prone",
                   "errorprone",
@@ -742,7 +742,7 @@
                     "open_issues": 5,
                     "owner": "groovy",
                     "repo": "groovy-android-gradle-plugin",
-                    "stars": 844,
+                    "stars": 843,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:57:49.450Z"
@@ -983,11 +983,11 @@
                     "id": 22718907,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-08-26T21:50:25Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-10-14T01:10:46Z",
+                    "open_issues": 22,
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4323,
+                    "stars": 4324,
                     "topics": [
                       "android",
                       "android-development",
@@ -2276,11 +2276,11 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T15:21:41Z",
+                "last_commit": "2026-10-14T10:06:27Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
-                "stars": 755,
+                "stars": 754,
                 "topics": [
                   "docker",
                   "gradle",
@@ -2429,7 +2429,7 @@
             "open_issues": 2,
             "owner": "int128",
             "repo": "gradle-plugin-starter",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "gradle-plugin"
             ]
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:02:27.801Z",
+    "last_updated": "2026-10-14T14:35:06.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
@@ -2453,7 +2453,7 @@
       "open_issues": 4,
       "owner": "ksoichiro",
       "repo": "awesome-gradle",
-      "stars": 486,
+      "stars": 487,
       "topics": [
         "awesome",
         "awesome-list",
