@@ -2,7 +2,7 @@
 
 > A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,309 | 🐛 105 | 📅 2026-09-02, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 623 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,794 | 🐛 105 | 📅 2026-09-02, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 623 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
 
 ## Table of contents
 
@@ -53,8 +53,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,309 |
 
 ### Code quality
 
-* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,690 | 🐛 243 | 🌐 Java | 📅 2026-10-09 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
-* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 409 | 🐛 4 | 🌐 Java | 📅 2026-10-09 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,254 | 🐛 546 | 🌐 Java | 📅 2026-10-15 compiler for Java.
+* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,692 | 🐛 242 | 🌐 Java | 📅 2026-10-09 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
+* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 409 | 🐛 4 | 🌐 Java | 📅 2026-10-16 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,254 | 🐛 547 | 🌐 Java | 📅 2026-10-15 compiler for Java.
 * [coveralls-gradle-plugin](https://github.com/kt3k/coveralls-gradle-plugin) ⚠️ Archived - Send coverage data to [coveralls.io](https://coveralls.io/).
 * [gradle-cobertura-plugin](https://github.com/stevesaliman/gradle-cobertura-plugin) ⭐ 119 | 🐛 37 | 🌐 Groovy | 📅 2022-05-21 - Use cobertura.
 * [gradle-scoverage](https://github.com/scoverage/gradle-scoverage) ⭐ 54 | 🐛 46 | 🌐 Java | 📅 2026-07-19 - Enable the use of Scoverage in a Gradle Scala project.
@@ -104,7 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,309 |
 * Alternative language
   * [groovy-android-gradle-plugin](https://github.com/groovy/groovy-android-gradle-plugin) ⚠️ Archived - Support the Groovy language for building Android apps.
 * APK handling
-  * [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) ⭐ 3,069 | 🐛 1 | 🌐 Java | 📅 2025-11-26 - Report the number of method references in APK.
+  * [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) ⭐ 3,068 | 🐛 1 | 🌐 Java | 📅 2025-11-26 - Report the number of method references in APK.
   * [gradle-android-apk-size-plugin](https://github.com/vanniktech/gradle-android-apk-size-plugin) ⚠️ Archived - Gradle plugin that generates CSV files with apk size per output and variant of an apk.
   * [android-gradle-mulchannel-plugin](https://github.com/ihrthk/android-gradle-mulchannel-plugin) ⭐ 43 | 🐛 5 | 🌐 Groovy | 📅 2016-01-25 - Generate multiple apks from different channel.
 * Build variant handling
@@ -149,7 +149,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,309 |
 
 ### Database
 
-* [liquibase-gradle-plugin](https://github.com/liquibase/liquibase-gradle-plugin) ⭐ 213 | 🐛 11 | 🌐 Groovy | 📅 2026-04-25 - Use [Liquibase](http://liquibase.org/) to manage your database upgrades.
+* [liquibase-gradle-plugin](https://github.com/liquibase/liquibase-gradle-plugin) ⭐ 213 | 🐛 12 | 🌐 Groovy | 📅 2026-04-25 - Use [Liquibase](http://liquibase.org/) to manage your database upgrades.
 * [ml-gradle](https://github.com/marklogic-community/ml-gradle) ⭐ 73 | 🐛 17 | 🌐 Java | 📅 2026-08-11 - Automate everything involving [MarkLogic](https://developer.marklogic.com/).
 * [gradle-migrations-plugin](https://github.com/marceloemanoel/gradle-migrations-plugin) ⭐ 17 | 🐛 10 | 🌐 Shell | 📅 2019-08-04 - Provide gradle build integration with [mybatis migrations](https://code.google.com/p/mybatis/wiki/Migration).
 * [flyway-gradle-plugin](http://flywaydb.org/documentation/gradle/) - [Flyway](http://flywaydb.org/) database migration tasks.
@@ -221,7 +221,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,309 |
 ### VM and container
 
 * [bmuschko/gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin) ⭐ 1,238 | 🐛 20 | 🌐 Java | 📅 2025-10-30 - Gradle plugin for managing Docker images and containers.
-* [palantir/gradle-docker](https://github.com/palantir/gradle-docker) ⭐ 754 | 🐛 117 | 🌐 Groovy | 📅 2026-10-15 - Build and push Docker images.
+* [palantir/gradle-docker](https://github.com/palantir/gradle-docker) ⭐ 754 | 🐛 117 | 🌐 Groovy | 📅 2026-10-16 - Build and push Docker images.
 * [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) ⭐ 650 | 🐛 83 | 🌐 Groovy | 📅 2020-08-20 - Build Docker images.
 * [gradle-vagrant-plugin](https://github.com/bmuschko/gradle-vagrant-plugin) ⭐ 48 | 🐛 6 | 🌐 Groovy | 📅 2021-03-21 - Manage Vagrant boxes.
 * [nebula-docker-plugin](https://github.com/nebula-plugins/nebula-docker-plugin) ⚠️ Archived - Nebula gradle plugin for reducing boilerplate in creating docker images.
@@ -237,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,309 |
 
 ### General Resources
 
-* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,894 | 🐛 3,519 | 🌐 Groovy | 📅 2026-10-15
+* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,894 | 🐛 3,525 | 🌐 Groovy | 📅 2026-10-16
 * [Gradle Forums](https://discuss.gradle.org/)
 * [Gradle Plugin Portal](https://plugins.gradle.org/)
 
@@ -258,4 +258,4 @@ To the extent possible under law, [Soichiro Kashima](https://github.com/ksoichir
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
