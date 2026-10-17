@@ -21,7 +21,7 @@
                 "open_issues": 76,
                 "owner": "evant",
                 "repo": "gradle-retrolambda",
-                "stars": 5246,
+                "stars": 5245,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -74,10 +74,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T14:28:26Z",
-                "open_issues": 242,
+                "open_issues": 243,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5692,
+                "stars": 5695,
                 "topics": [
                   "css",
                   "formatter",
@@ -360,7 +360,7 @@
                 "open_issues": 187,
                 "owner": "srs",
                 "repo": "gradle-node-plugin",
-                "stars": 864,
+                "stars": 863,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1505,7 +1505,7 @@
                 "open_issues": 57,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4092,
+                "stars": 4091,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1946,8 +1946,8 @@
                 "id": 6459731,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T20:33:55Z",
-                "open_issues": 54,
+                "last_commit": "2026-10-16T19:25:51Z",
+                "open_issues": 56,
                 "owner": "int128",
                 "repo": "gradle-ssh-plugin",
                 "stars": 325,
@@ -1975,7 +1975,7 @@
                 "open_issues": 0,
                 "owner": "bmuschko",
                 "repo": "gradle-nexus-plugin",
-                "stars": 293,
+                "stars": 292,
                 "topics": [
                   "gradle-plugin",
                   "maven",
@@ -2057,7 +2057,7 @@
                 "open_issues": 57,
                 "owner": "classmethod",
                 "repo": "gradle-aws-plugin",
-                "stars": 277,
+                "stars": 276,
                 "topics": [
                   "aws",
                   "bd",
@@ -2256,7 +2256,7 @@
                 "open_issues": 20,
                 "owner": "bmuschko",
                 "repo": "gradle-docker-plugin",
-                "stars": 1238,
+                "stars": 1239,
                 "topics": [
                   "docker",
                   "gradle-plugin"
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T13:08:38Z",
+                "last_commit": "2026-10-17T11:19:49Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:04:47.627Z",
+    "last_updated": "2026-10-17T13:04:09.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
