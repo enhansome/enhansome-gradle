@@ -21,7 +21,7 @@
                 "open_issues": 76,
                 "owner": "evant",
                 "repo": "gradle-retrolambda",
-                "stars": 5245,
+                "stars": 5246,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1420,7 +1420,7 @@
                 "language": "Groovy",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-25T14:40:47Z",
-                "open_issues": 12,
+                "open_issues": 9,
                 "owner": "liquibase",
                 "repo": "liquibase-gradle-plugin",
                 "stars": 213,
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T11:51:05Z",
+                "last_commit": "2026-10-25T12:37:18Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:26:08.075Z",
+    "last_updated": "2026-10-25T13:47:48.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
