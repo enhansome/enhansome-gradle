@@ -73,8 +73,8 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T15:14:57Z",
-                "open_issues": 252,
+                "last_commit": "2026-10-28T19:34:32Z",
+                "open_issues": 249,
                 "owner": "diffplug",
                 "repo": "spotless",
                 "stars": 5712,
@@ -360,7 +360,7 @@
                 "open_issues": 187,
                 "owner": "srs",
                 "repo": "gradle-node-plugin",
-                "stars": 863,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -987,7 +987,7 @@
                     "open_issues": 23,
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4321,
+                    "stars": 4322,
                     "topics": [
                       "android",
                       "android-development",
@@ -1502,7 +1502,7 @@
                 "language": "Groovy",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T13:32:20Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
                 "stars": 4093,
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T14:14:42Z",
+                "last_commit": "2026-10-29T13:08:49Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:10:46.418Z",
+    "last_updated": "2026-10-29T16:17:17.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
