@@ -73,11 +73,11 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T19:34:32Z",
-                "open_issues": 252,
+                "last_commit": "2026-11-01T18:16:49Z",
+                "open_issues": 251,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5719,
+                "stars": 5720,
                 "topics": [
                   "css",
                   "formatter",
@@ -109,7 +109,7 @@
                 "id": 125682893,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T16:05:48Z",
+                "last_commit": "2026-11-02T12:16:45Z",
                 "open_issues": 3,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
@@ -1505,7 +1505,7 @@
                 "open_issues": 57,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4095,
+                "stars": 4094,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1946,7 +1946,7 @@
                 "id": 6459731,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T18:54:12Z",
+                "last_commit": "2026-11-01T22:08:05Z",
                 "open_issues": 54,
                 "owner": "int128",
                 "repo": "gradle-ssh-plugin",
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T14:22:54Z",
+                "last_commit": "2026-11-02T19:24:13Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:10:49.063Z",
+    "last_updated": "2026-11-02T19:38:48.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
