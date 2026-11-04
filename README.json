@@ -74,10 +74,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T21:52:33Z",
-                "open_issues": 249,
+                "open_issues": 251,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5719,
+                "stars": 5721,
                 "topics": [
                   "css",
                   "formatter",
@@ -449,7 +449,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T13:05:11Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "wondrify",
                 "repo": "asset-pipeline",
                 "stars": 198,
@@ -1037,8 +1037,8 @@
                     "id": 10899621,
                     "language": "Groovy",
                     "license": null,
-                    "last_commit": "2026-10-30T03:14:13Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-04T11:53:59Z",
+                    "open_issues": 7,
                     "owner": "DeployGate",
                     "repo": "gradle-deploygate-plugin",
                     "stars": 90,
@@ -1126,7 +1126,7 @@
                     "open_issues": 63,
                     "owner": "pedrovgs",
                     "repo": "Shot",
-                    "stars": 1209,
+                    "stars": 1208,
                     "topics": [
                       "android",
                       "gradle-plugin",
@@ -2256,7 +2256,7 @@
                 "open_issues": 20,
                 "owner": "bmuschko",
                 "repo": "gradle-docker-plugin",
-                "stars": 1239,
+                "stars": 1238,
                 "topics": [
                   "docker",
                   "gradle-plugin"
@@ -2276,8 +2276,8 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T13:23:12Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-04T13:48:40Z",
+                "open_issues": 118,
                 "owner": "palantir",
                 "repo": "gradle-docker",
                 "stars": 754,
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:11:21.887Z",
+    "last_updated": "2026-11-04T17:22:49.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
