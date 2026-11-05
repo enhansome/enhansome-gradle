@@ -2,7 +2,7 @@
 
 > A curated list of awesome Gradle plugins and resources for a better development workflow automation.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,795 | 🐛 103 | 📅 2026-09-02, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 623 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,576 | 🐛 103 | 📅 2026-09-02, [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 623 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 and some other awesome lists.
 
 ## Table of contents
 
@@ -53,8 +53,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,795 |
 
 ### Code quality
 
-* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,721 | 🐛 251 | 🌐 Java | 📅 2026-11-02 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
-* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 409 | 🐛 3 | 🌐 Java | 📅 2026-11-02 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,268 | 🐛 506 | 🌐 Java | 📅 2026-11-04 compiler for Java.
+* [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) ⭐ 5,722 | 🐛 251 | 🌐 Java | 📅 2026-11-02 - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
+* [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) ⭐ 409 | 🐛 3 | 🌐 Java | 📅 2026-11-02 - Use the [error-prone](https://github.com/google/error-prone) ⭐ 7,268 | 🐛 510 | 🌐 Java | 📅 2026-11-05 compiler for Java.
 * [coveralls-gradle-plugin](https://github.com/kt3k/coveralls-gradle-plugin) ⚠️ Archived - Send coverage data to [coveralls.io](https://coveralls.io/).
 * [gradle-cobertura-plugin](https://github.com/stevesaliman/gradle-cobertura-plugin) ⭐ 119 | 🐛 37 | 🌐 Groovy | 📅 2022-05-21 - Use cobertura.
 * [gradle-scoverage](https://github.com/scoverage/gradle-scoverage) ⭐ 54 | 🐛 46 | 🌐 Java | 📅 2026-07-19 - Enable the use of Scoverage in a Gradle Scala project.
@@ -84,7 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,795 |
 * [gretty](https://github.com/akhikhl/gretty) ⭐ 648 | 🐛 234 | 🌐 Groovy | 📅 2023-12-28 - Run web apps on jetty and tomcat.
 * [gradle-tomcat-plugin](https://github.com/bmuschko/gradle-tomcat-plugin) ⚠️ Archived - Support deployment of your web application to an embedded Tomcat web container.
 * [gradle-js-plugin](https://github.com/eriwen/gradle-js-plugin) ⚠️ Archived - Manage JavaScript.
-* [asset-pipeline](https://github.com/bertramdev/asset-pipeline) ⭐ 198 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-22 - Manage and process static assets in JVM applications.
+* [asset-pipeline](https://github.com/bertramdev/asset-pipeline) ⭐ 198 | 🐛 35 | 🌐 JavaScript | 📅 2026-11-04 - Manage and process static assets in JVM applications.
 * [gradle-grunt-plugin](https://github.com/srs/gradle-grunt-plugin) ⭐ 106 | 🐛 15 | 📅 2016-12-02 - Run Grunt tasks.
 * [gradle-gulp-plugin](https://github.com/srs/gradle-gulp-plugin) ⭐ 69 | 🐛 15 | 📅 2016-12-02 - Run Gulp tasks.
 * [gradle-compass](https://github.com/robfletcher/gradle-compass) ⭐ 60 | 🐛 36 | 🌐 Groovy | 📅 2020-01-10 - Compile and watche SASS files.
@@ -115,7 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,795 |
   * [gradle-mdicons](https://github.com/tmiyamon/gradle-mdicons) ⚠️ Archived - Manage material design icons.
   * [gradle-android-appiconoverlay](https://github.com/splatte/gradle-android-appiconoverlay) ⭐ 66 | 🐛 2 | 🌐 Groovy | 📅 2017-11-25 - Automatically overlay the app icon with the current git commit SHA1.
 * Releasing
-  * [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) ⭐ 4,320 | 🐛 23 | 🌐 Kotlin | 📅 2026-10-14 - Manage your complete Play Store presence in your repository: Listing, Release Notes, APKs and App Bundles.
+  * [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) ⭐ 4,321 | 🐛 22 | 🌐 Kotlin | 📅 2026-10-14 - Manage your complete Play Store presence in your repository: Listing, Release Notes, APKs and App Bundles.
   * [testfairy-gradle-plugin](https://github.com/testfairy/testfairy-gradle-plugin) ⭐ 92 | 🐛 10 | 🌐 Groovy | 📅 2021-12-20 - Official plugin to upload signed builds to TestFairy.
   * [gradle-deploygate-plugin](https://github.com/deploygate/gradle-deploygate-plugin) ⭐ 90 | 🐛 7 | 🌐 Groovy | 📅 2026-11-04 - Build and deploy apps to DeployGate.
 * Testing
@@ -158,7 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,795 |
 
 * [gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) ⭐ 4,094 | 🐛 57 | 🌐 Groovy | 📅 2026-10-31 - Provide a task to determine which dependencies have updates.
 * [buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) ⭐ 1,710 | 🐛 129 | 🌐 Kotlin | 📅 2025-08-16 - Painless dependencies management.
-* [gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin) ⭐ 302 | 🐛 30 | 🌐 Groovy | 📅 2026-10-19 - Allow people using dynamic dependency versions to lock them to specific versions.
+* [gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin) ⭐ 302 | 🐛 31 | 🌐 Groovy | 📅 2026-11-04 - Allow people using dynamic dependency versions to lock them to specific versions.
 * [gradle-nuget-plugin](https://github.com/Ullink/gradle-nuget-plugin) ⭐ 22 | 🐛 14 | 🌐 Groovy | 📅 2026-03-27 - Execute NuGet.exe from Gradle.
 * [gradle-dependency-analyze](https://github.com/wfhartford/gradle-dependency-analyze) ⭐ 0 | 🐛 0 | 🌐 Groovy | 📅 2021-02-02 - Dependency analysis plugin for gradle.
 * [gradle-git-repo-plugin](https://github.com/layerhq/gradle-git-repo-plugin) - Use a private git repo as a Maven repository.
@@ -221,7 +221,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,795 |
 ### VM and container
 
 * [bmuschko/gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin) ⭐ 1,238 | 🐛 20 | 🌐 Java | 📅 2025-10-30 - Gradle plugin for managing Docker images and containers.
-* [palantir/gradle-docker](https://github.com/palantir/gradle-docker) ⭐ 754 | 🐛 118 | 🌐 Groovy | 📅 2026-11-04 - Build and push Docker images.
+* [palantir/gradle-docker](https://github.com/palantir/gradle-docker) ⭐ 754 | 🐛 118 | 🌐 Groovy | 📅 2026-11-05 - Build and push Docker images.
 * [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) ⭐ 649 | 🐛 83 | 🌐 Groovy | 📅 2020-08-20 - Build Docker images.
 * [gradle-vagrant-plugin](https://github.com/bmuschko/gradle-vagrant-plugin) ⭐ 48 | 🐛 6 | 🌐 Groovy | 📅 2021-03-21 - Manage Vagrant boxes.
 * [nebula-docker-plugin](https://github.com/nebula-plugins/nebula-docker-plugin) ⚠️ Archived - Nebula gradle plugin for reducing boilerplate in creating docker images.
@@ -237,7 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,795 |
 
 ### General Resources
 
-* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,917 | 🐛 3,523 | 🌐 Groovy | 📅 2026-11-04
+* [GitHub Repository](https://github.com/gradle/gradle) ⭐ 18,919 | 🐛 3,520 | 🌐 Groovy | 📅 2026-11-05
 * [Gradle Forums](https://discuss.gradle.org/)
 * [Gradle Plugin Portal](https://plugins.gradle.org/)
 
@@ -258,4 +258,4 @@ To the extent possible under law, [Soichiro Kashima](https://github.com/ksoichir
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
