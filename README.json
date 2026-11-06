@@ -77,7 +77,7 @@
                 "open_issues": 251,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5722,
+                "stars": 5721,
                 "topics": [
                   "css",
                   "formatter",
@@ -109,7 +109,7 @@
                 "id": 125682893,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T12:16:45Z",
+                "last_commit": "2026-11-06T12:58:50Z",
                 "open_issues": 3,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
@@ -770,7 +770,7 @@
                     "open_issues": 1,
                     "owner": "KeepSafe",
                     "repo": "dexcount-gradle-plugin",
-                    "stars": 3069,
+                    "stars": 3070,
                     "topics": [
                       "android",
                       "gradle",
@@ -1419,8 +1419,8 @@
                 "id": 33997332,
                 "language": "Groovy",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T19:17:10Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-06T14:35:06Z",
+                "open_issues": 6,
                 "owner": "liquibase",
                 "repo": "liquibase-gradle-plugin",
                 "stars": 213,
@@ -1502,10 +1502,10 @@
                 "language": "Groovy",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T19:25:42Z",
-                "open_issues": 57,
+                "open_issues": 56,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4094,
+                "stars": 4093,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1552,7 +1552,7 @@
                 "id": 16361009,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T21:55:00Z",
+                "last_commit": "2026-11-06T00:05:21Z",
                 "open_issues": 31,
                 "owner": "nebula-plugins",
                 "repo": "gradle-dependency-lock-plugin",
@@ -1904,7 +1904,7 @@
                 "open_issues": 165,
                 "owner": "bintray",
                 "repo": "gradle-bintray-plugin",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1975,7 +1975,7 @@
                 "open_issues": 0,
                 "owner": "bmuschko",
                 "repo": "gradle-nexus-plugin",
-                "stars": 292,
+                "stars": 291,
                 "topics": [
                   "gradle-plugin",
                   "maven",
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T17:10:16Z",
+                "last_commit": "2026-11-06T14:35:29Z",
                 "open_issues": 118,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:29:51.356Z",
+    "last_updated": "2026-11-06T16:51:32.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
