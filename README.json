@@ -73,11 +73,11 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T21:52:33Z",
-                "open_issues": 251,
+                "last_commit": "2026-11-07T13:41:58Z",
+                "open_issues": 261,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5721,
+                "stars": 5722,
                 "topics": [
                   "css",
                   "formatter",
@@ -770,7 +770,7 @@
                     "open_issues": 1,
                     "owner": "KeepSafe",
                     "repo": "dexcount-gradle-plugin",
-                    "stars": 3070,
+                    "stars": 3071,
                     "topics": [
                       "android",
                       "gradle",
@@ -987,7 +987,7 @@
                     "open_issues": 22,
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4321,
+                    "stars": 4322,
                     "topics": [
                       "android",
                       "android-development",
@@ -1505,7 +1505,7 @@
                 "open_issues": 56,
                 "owner": "ben-manes",
                 "repo": "gradle-versions-plugin",
-                "stars": 4093,
+                "stars": 4094,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:49.450Z"
@@ -1526,7 +1526,7 @@
                 "open_issues": 129,
                 "owner": "Splitties",
                 "repo": "refreshVersions",
-                "stars": 1710,
+                "stars": 1711,
                 "topics": [
                   "android",
                   "gradle",
@@ -1946,8 +1946,8 @@
                 "id": 6459731,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T22:08:05Z",
-                "open_issues": 54,
+                "last_commit": "2026-11-06T20:27:38Z",
+                "open_issues": 56,
                 "owner": "int128",
                 "repo": "gradle-ssh-plugin",
                 "stars": 325,
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T14:35:29Z",
+                "last_commit": "2026-11-07T15:45:35Z",
                 "open_issues": 118,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:51:32.404Z",
+    "last_updated": "2026-11-07T15:48:29.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
