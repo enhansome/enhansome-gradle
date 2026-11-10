@@ -73,11 +73,11 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T19:27:36Z",
-                "open_issues": 264,
+                "last_commit": "2026-11-10T06:37:58Z",
+                "open_issues": 251,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5726,
+                "stars": 5727,
                 "topics": [
                   "css",
                   "formatter",
@@ -113,7 +113,7 @@
                 "open_issues": 3,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
-                "stars": 409,
+                "stars": 410,
                 "topics": [
                   "error-prone",
                   "errorprone",
@@ -428,7 +428,7 @@
                 "open_issues": 71,
                 "owner": "eriwen",
                 "repo": "gradle-js-plugin",
-                "stars": 380,
+                "stars": 381,
                 "topics": [
                   "gradle-plugin",
                   "javascript"
@@ -849,7 +849,7 @@
                     "open_issues": 10,
                     "owner": "moallemi",
                     "repo": "gradle-advanced-build-version",
-                    "stars": 607,
+                    "stars": 608,
                     "topics": [
                       "android",
                       "android-studio",
@@ -1420,7 +1420,7 @@
                 "language": "Groovy",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-06T14:35:06Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "liquibase",
                 "repo": "liquibase-gradle-plugin",
                 "stars": 213,
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T17:19:52Z",
+                "last_commit": "2026-11-10T16:29:51Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:56:10.863Z",
+    "last_updated": "2026-11-10T17:10:18.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
