@@ -74,10 +74,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T17:58:25Z",
-                "open_issues": 256,
+                "open_issues": 257,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5733,
+                "stars": 5736,
                 "topics": [
                   "css",
                   "formatter",
@@ -109,11 +109,11 @@
                 "id": 125682893,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T08:32:08Z",
+                "last_commit": "2026-11-19T17:02:49Z",
                 "open_issues": 3,
                 "owner": "tbroyer",
                 "repo": "gradle-errorprone-plugin",
-                "stars": 409,
+                "stars": 410,
                 "topics": [
                   "error-prone",
                   "errorprone",
@@ -987,7 +987,7 @@
                     "open_issues": 22,
                     "owner": "Triple-T",
                     "repo": "gradle-play-publisher",
-                    "stars": 4325,
+                    "stars": 4326,
                     "topics": [
                       "android",
                       "android-development",
@@ -1552,7 +1552,7 @@
                 "id": 16361009,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T22:59:07Z",
+                "last_commit": "2026-11-19T06:03:06Z",
                 "open_issues": 30,
                 "owner": "nebula-plugins",
                 "repo": "gradle-dependency-lock-plugin",
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T18:11:46Z",
+                "last_commit": "2026-11-19T16:35:36Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:15:56.009Z",
+    "last_updated": "2026-11-19T18:25:41.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
