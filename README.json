@@ -73,11 +73,11 @@
                 "id": 34685800,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T00:55:12Z",
-                "open_issues": 244,
+                "last_commit": "2026-11-24T00:05:05Z",
+                "open_issues": 242,
                 "owner": "diffplug",
                 "repo": "spotless",
-                "stars": 5736,
+                "stars": 5740,
                 "topics": [
                   "css",
                   "formatter",
@@ -770,7 +770,7 @@
                     "open_issues": 1,
                     "owner": "KeepSafe",
                     "repo": "dexcount-gradle-plugin",
-                    "stars": 3070,
+                    "stars": 3069,
                     "topics": [
                       "android",
                       "gradle",
@@ -1553,7 +1553,7 @@
                 "language": "Groovy",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T06:03:06Z",
-                "open_issues": 32,
+                "open_issues": 30,
                 "owner": "nebula-plugins",
                 "repo": "gradle-dependency-lock-plugin",
                 "stars": 302,
@@ -2276,7 +2276,7 @@
                 "id": 42682769,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T18:55:32Z",
+                "last_commit": "2026-11-24T19:58:13Z",
                 "open_issues": 117,
                 "owner": "palantir",
                 "repo": "gradle-docker",
@@ -2441,7 +2441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:34:59.933Z",
+    "last_updated": "2026-11-24T20:15:29.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
